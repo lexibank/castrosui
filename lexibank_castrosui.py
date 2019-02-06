@@ -23,7 +23,6 @@ class HLanguage(Language):
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
 
-∼
 
 class Dataset(BaseDataset):
     id = 'castrosui'
@@ -75,7 +74,7 @@ class Dataset(BaseDataset):
                 'glossid', 'value', 'form', 'phonetic', 'concepticon_id',
                 'concepticon_gloss']}
 
-            for line in tqdm(data):
+            for line in tqdm(data, desc='load the data'):
                 if not line[0].strip():
                     phonetic = True
                 if line[0] == "'Ref#":
@@ -123,9 +122,12 @@ class Dataset(BaseDataset):
                                 forms = val.split(',')
                                 for this_idx, form in zip(these_idx, forms):
                                     D[this_idx][7] = form
+            # export to lingpy wordlist in raw folder
+            Wordlist(D).output('tsv', filename=self.dir.joinpath('raw',
+                'lingpy-wordlist').as_posix())
 
             # add data to cldf
-            for idx in tqdm(range(1, len(D)), desc='add data'):
+            for idx in tqdm(range(1, len(D)), desc='cldf the data'):
                 vals = dict(zip(D[0], D[idx]))
                 segments = self.tokenizer(None, '^'+vals['form'].replace(' ',
                     '_')+'$', column="IPA")
