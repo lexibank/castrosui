@@ -2,7 +2,9 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Castro-2015-608",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Castro-2015-608"
+    ],
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
@@ -17,15 +19,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 9459,
+            "dc:extent": 9693,
             "tableSchema": {
                 "columns": [
                     {
@@ -52,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -154,6 +156,26 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
@@ -164,14 +186,6 @@
                     {
                         "datatype": "string",
                         "name": "Population"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Latitude"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Longitude"
                     },
                     {
                         "datatype": "string",

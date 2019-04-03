@@ -1,17 +1,17 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,Chinese_name,Population,Latitude,Longitude,SubGroup
-SD,Sandong,sand1270,,,,,三洞乡水根村,,25.983,107.87,"Sandong, Western"
-ZH,Zhonghe,sand1270,,,,,中和镇中和村和寨,,25.983,107.87,"Sandong, Western"
-TP,Tingpai,sand1270,,,,,塘州乡枚育村,,25.983,107.87,"Sandong, Western"
-AT,Antang,sand1270,,,,,廷牌镇新仰村,,25.983,107.87,"Sandong, Western"
-TZ,Tangzhou,sand1270,,,,,塘州乡安塘村,,25.983,107.87,"Sandong, Western"
-DJ,Dujiang,sand1270,,,,,都江镇怎累村上村,,25.983,107.87,"Sandong, Eastern"
-SJ,Sanjiang,sand1270,,,,,榕江县三江水族乡故衣村上寨,,25.932,108.522,"Sandong, Eastern"
-RL,Renli,sand1270,,,,,榕江县仁里水族乡党民村,,25.932,108.522,"Sandong, Eastern"
-JQ,Juqian,sand1270,,,,,九阡镇姑偿村,,25.983,107.87,"Sandong, Southern"
-SY,Shuiyao,sand1270,,,,,荔波县水尧水族乡水尧村,,25.411,107.888,"Sandong, Southern"
-JR,Jiarong,sand1270,,,,,荔波县佳荣镇拉亮村,,25.411,107.888,"Sandong, Southern"
-SW,Shuiwei,sand1270,,,,,榕江县水尾水族乡水尾村,,25.932,108.522,"Sandong, Southern"
-PD,Pandong,pand1262,,,,,都匀市阳和水族乡潘洞村,,26.258333,107.515278,Pandong
-JL,Jiaoli,pand1262,,,,,交梨乡高戎村,,25.983,107.87,Pandong
-TN,Tangnian,anya1244,,,,,独山县本寨水族乡塘联村塘年寨,,25.47522,107.42758,Yang’an
-BL,Banliang,anya1244,,,,,塘州乡板良村,,25.983,107.87,Yang’an
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Chinese_name,Population,SubGroup
+SD,Sandong,sand1270,,,,25.724479,107.92172,,三洞乡水根村,,"Sandong, Central"
+ZH,Zhonghe,sand1270,,,,25.817612,107.904898,,中和镇中和村和寨,,"Sandong, Central"
+TZ,Tangzhou,sand1270,,,,25.775037,107.87072,,塘州乡枚育村,,"Sandong, Western"
+TP,Tingpai,sand1270,,,,25.3756,107.5416,,廷牌镇新仰村,,"Sandong, Western"
+AT,Antang,sand1270,,,,25.935942,108.113772,,塘州乡安塘村,,"Sandong, Western"
+DJ,Dujiang,sand1270,,,,26.009139,108.260898,,都江镇怎累村上村,,"Sandong, Eastern"
+SJ,Sanjiang,sand1270,,,,26.009139,108.260898,,榕江县三江水族乡故衣村上寨,,"Sandong, Eastern"
+RL,Renli,sand1270,,,,26.116584,108.435839,,榕江县仁里水族乡党民村,,"Sandong, Eastern"
+JQ,Juqian,sand1270,,,,25.615405,108.030525,,九阡镇姑偿村,,"Sandong, Southern"
+SY,Shuiyao,sand1270,,,,25.413123,107.969761,,荔波县水尧水族乡水尧村,,"Sandong, Southern"
+JR,Jiarong,sand1270,,,,25.493343,108.183955,,荔波县佳荣镇拉亮村,,"Sandong, Southern"
+SW,Shuiwei,sand1270,,,,25.710491,108.211043,,榕江县水尾水族乡水尾村,,"Sandong, Southern"
+PD,Pandong,pand1262,,,,26.06349,107.693696,,都匀市阳和水族乡潘洞村,,Pandong
+JL,Jiaoli,pand1262,,,,26.059013,107.8486,,交梨乡高戎村,,Pandong
+TN,Tangnian,anya1244,,,,25.58369,107.801479,,独山县本寨水族乡塘联村塘年寨,,Yang’an
+BL,Banliang,anya1244,,,,25.776111,107.870727,,塘州乡板良村,,Yang’an

@@ -29,12 +29,9 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = HConcept
     language_class = HLanguage
-
-    def split_forms(self, item, value):
-        """Override custom behavior: no splitting into multiple values.
-        This is done explicitly in the code"""
-        value = self.lexemes.get(value, value)
-        return [self.clean_form(item, form) for form in [value]]
+    
+    def clean_form(self, item, form):
+        return form.strip().replace(' ', '_')
 
     def cmd_download(self, **kw):
         pass
@@ -129,16 +126,11 @@ class Dataset(BaseDataset):
             # add data to cldf
             for idx in tqdm(range(1, len(D)), desc='cldf the data'):
                 vals = dict(zip(D[0], D[idx]))
-                segments = self.tokenizer(None, '^'+vals['form'].replace(' ',
-                    '_')+'$', column="IPA")
                 ds.add_lexemes(
                     Language_ID=vals['doculectid'],
                     Parameter_ID=vals['glossid'],
-                    Form=vals['form'],
                     Value=vals['value'],
-                    Segments=segments,
-                    Source=['Castro2015'],
-                    #PhoneticValue=vals['phonetic']
+                    Source=['Castro2015']
                     )
 
 
