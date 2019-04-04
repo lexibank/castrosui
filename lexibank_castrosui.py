@@ -124,7 +124,8 @@ class Dataset(BaseDataset):
                 'lingpy-wordlist').as_posix())
 
             # add data to cldf
-            for idx in tqdm(range(1, len(D)), desc='cldf the data'):
+            for idx in tqdm(range(1, len(D)), desc='cldf the data',
+                    total=len(D)):
                 vals = dict(zip(D[0], D[idx]))
                 ds.add_lexemes(
                     Language_ID=vals['doculectid'],
