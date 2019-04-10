@@ -18,7 +18,7 @@ This dataset was taken from the original data published by Andy Castro, who was 
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lexibank/castrosui.svg?branch=master)](https://travis-ci.org/lexibank/castrosui)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 85%](https://img.shields.io/badge/Concepticon-85%25-yellowgreen.svg "Concepticon: 85%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
