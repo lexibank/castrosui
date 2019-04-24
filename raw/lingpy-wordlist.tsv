@@ -1109,22 +1109,22 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 4502	Tangnian	TN	anya1244	child, whelp	281	laːk⁸	laːk⁸	laːk⁸	3254	YOUNG ANIMAL
 4511	Banliang	BL	anya1244	child, whelp	281	lak⁸	lak⁸	lak⁸	3254	YOUNG ANIMAL
 #
-1212	Sandong	SD	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1222	Zhonghe	ZH	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1232	Tingpai	TP	sand1270	chilli	082	lian⁵	lian⁵	liːɛn⁵	191	CHILI PEPPER
-1242	Antang	AT	sand1270	chilli	082	lien⁵	lien⁵	liɛn⁵	191	CHILI PEPPER
-1252	Tangzhou	TZ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1262	Dujiang	DJ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1272	Sanjiang	SJ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1282	Renli	RL	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1292	Juqian	JQ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1302	Shuiyao	SY	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1312	Jiarong	JR	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1322	Shuiwei	SW	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	191	CHILI PEPPER
-1332	Pandong	PD	pand1262	chilli	082	lien⁵	lien⁵	lien⁵	191	CHILI PEPPER
-1342	Jiaoli	JL	pand1262	chilli	082	lin⁵	lin⁵	lin⁵	191	CHILI PEPPER
-1352	Tangnian	TN	anya1244	chilli	082	ljaːn⁶	ljaːn⁶	ljaːn⁶	191	CHILI PEPPER
-1362	Banliang	BL	anya1244	chilli	082	ljaːn⁶	ljaːn⁶	ljaːn⁶	191	CHILI PEPPER
+1212	Sandong	SD	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1222	Zhonghe	ZH	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1232	Tingpai	TP	sand1270	chilli	082	lian⁵	lian⁵	liːɛn⁵	919	CHILI PEPPER
+1242	Antang	AT	sand1270	chilli	082	lien⁵	lien⁵	liɛn⁵	919	CHILI PEPPER
+1252	Tangzhou	TZ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1262	Dujiang	DJ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1272	Sanjiang	SJ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1282	Renli	RL	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1292	Juqian	JQ	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1302	Shuiyao	SY	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1312	Jiarong	JR	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1322	Shuiwei	SW	sand1270	chilli	082	ljaːn⁵	ljaːn⁵	ljaːn⁵	919	CHILI PEPPER
+1332	Pandong	PD	pand1262	chilli	082	lien⁵	lien⁵	lien⁵	919	CHILI PEPPER
+1342	Jiaoli	JL	pand1262	chilli	082	lin⁵	lin⁵	lin⁵	919	CHILI PEPPER
+1352	Tangnian	TN	anya1244	chilli	082	ljaːn⁶	ljaːn⁶	ljaːn⁶	919	CHILI PEPPER
+1362	Banliang	BL	anya1244	chilli	082	ljaːn⁶	ljaːn⁶	ljaːn⁶	919	CHILI PEPPER
 #
 3017	Sandong	SD	sand1270	chopsticks	197	tsu⁶	tsu⁶	tsu⁶	1987	CHOPSTICKS
 3027	Zhonghe	ZH	sand1270	chopsticks	197	tsu⁶	tsu⁶	tsu⁶	1987	CHOPSTICKS
@@ -2720,26 +2720,26 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 4224	Tangnian	TN	anya1244	garden	259	fjaːn¹	fjaːn¹	fjaːn¹	586	GARDEN
 4234	Banliang	BL	anya1244	garden	259	fjaːn¹	fjaːn¹	fjaːn¹	586	GARDEN
 #
-4098	Sandong	SD	sand1270	ghost	262	maːŋ¹, kə³ ʔdjup⁷	maːŋ¹	maːŋ¹	1175	GHOST
-4099	Sandong	SD	sand1270	ghost	262	maːŋ¹, kə³ ʔdjup⁷	kə³ ʔdjup⁷	 kə³ ʔdjʊp⁷	1175	GHOST
-4108	Zhonghe	ZH	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4117	Tingpai	TP	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4126	Antang	AT	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	maːŋ¹	maːŋ¹	1175	GHOST
-4127	Antang	AT	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	kwan¹ ʔdjup⁷	 kwa¹ ʔdjop⁷	1175	GHOST
-4136	Tangzhou	TZ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4145	Dujiang	DJ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4154	Sanjiang	SJ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4163	Renli	RL	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4172	Juqian	JQ	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	maːŋ¹	maːŋ¹	1175	GHOST
-4173	Juqian	JQ	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	kwan¹ ʔdjup⁷	 kwɐn¹ ʔdjʊp⁷	1175	GHOST
-4182	Shuiyao	SY	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4191	Jiarong	JR	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4200	Shuiwei	SW	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4209	Pandong	PD	pand1262	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4218	Jiaoli	JL	pand1262	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	1175	GHOST
-4227	Tangnian	TN	anya1244	ghost	262	kə³ ljʊp⁷, ȶui³	kə³ ljʊp⁷	kə³ ljʊp⁷	1175	GHOST
-4228	Tangnian	TN	anya1244	ghost	262	kə³ ljʊp⁷, ȶui³	ȶui³	 tɕyi³	1175	GHOST
-4237	Banliang	BL	anya1244	ghost	262	ku³ ljup⁷	ku³ ljup⁷	ku³ ljʊp⁷	1175	GHOST
+4098	Sandong	SD	sand1270	ghost	262	maːŋ¹, kə³ ʔdjup⁷	maːŋ¹	maːŋ¹	53	SPIRIT
+4099	Sandong	SD	sand1270	ghost	262	maːŋ¹, kə³ ʔdjup⁷	kə³ ʔdjup⁷	 kə³ ʔdjʊp⁷	53	SPIRIT
+4108	Zhonghe	ZH	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4117	Tingpai	TP	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4126	Antang	AT	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	maːŋ¹	maːŋ¹	53	SPIRIT
+4127	Antang	AT	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	kwan¹ ʔdjup⁷	 kwa¹ ʔdjop⁷	53	SPIRIT
+4136	Tangzhou	TZ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4145	Dujiang	DJ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4154	Sanjiang	SJ	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4163	Renli	RL	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4172	Juqian	JQ	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	maːŋ¹	maːŋ¹	53	SPIRIT
+4173	Juqian	JQ	sand1270	ghost	262	maːŋ¹, kwan¹ ʔdjup⁷	kwan¹ ʔdjup⁷	 kwɐn¹ ʔdjʊp⁷	53	SPIRIT
+4182	Shuiyao	SY	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4191	Jiarong	JR	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4200	Shuiwei	SW	sand1270	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4209	Pandong	PD	pand1262	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4218	Jiaoli	JL	pand1262	ghost	262	maːŋ¹	maːŋ¹	maːŋ¹	53	SPIRIT
+4227	Tangnian	TN	anya1244	ghost	262	kə³ ljʊp⁷, ȶui³	kə³ ljʊp⁷	kə³ ljʊp⁷	53	SPIRIT
+4228	Tangnian	TN	anya1244	ghost	262	kə³ ljʊp⁷, ȶui³	ȶui³	 tɕyi³	53	SPIRIT
+4237	Banliang	BL	anya1244	ghost	262	ku³ ljup⁷	ku³ ljup⁷	ku³ ljʊp⁷	53	SPIRIT
 #
 2176	Sandong	SD	sand1270	gills	137	ʔȵaːk⁷	ʔȵaːk⁷	ʔȵaːk⁷	1916	GILL
 2188	Zhonghe	ZH	sand1270	gills	137	ʔȵaːk⁷	ʔȵaːk⁷	ʔȵaːk⁷	1916	GILL
@@ -4619,22 +4619,22 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 7626	Tangnian	TN	anya1244	not	481	me²	me²	mɛ²	1240	NOT
 7637	Banliang	BL	anya1244	not	481	me²	me²	mɛ²	1240	NOT
 #
-3016	Sandong	SD	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3026	Zhonghe	ZH	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3036	Tingpai	TP	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3046	Antang	AT	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3056	Tangzhou	TZ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3066	Dujiang	DJ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3076	Sanjiang	SJ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3086	Renli	RL	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3096	Juqian	JQ	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔːŋ⁵	2398	FLAVOR
-3106	Shuiyao	SY	sand1270	odour	196	poŋ⁵	poŋ⁵	poɐŋ⁵	2398	FLAVOR
-3116	Jiarong	JR	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔŋ⁵	2398	FLAVOR
-3126	Shuiwei	SW	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔɐŋ⁵	2398	FLAVOR
-3136	Pandong	PD	pand1262	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3146	Jiaoli	JL	pand1262	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
-3156	Tangnian	TN	anya1244	odour	196	puŋ³	puŋ³	poŋ³	2398	FLAVOR
-3166	Banliang	BL	anya1244	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2398	FLAVOR
+3016	Sandong	SD	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3026	Zhonghe	ZH	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3036	Tingpai	TP	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3046	Antang	AT	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3056	Tangzhou	TZ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3066	Dujiang	DJ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3076	Sanjiang	SJ	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3086	Renli	RL	sand1270	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3096	Juqian	JQ	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔːŋ⁵	2938	FLAVOR
+3106	Shuiyao	SY	sand1270	odour	196	poŋ⁵	poŋ⁵	poɐŋ⁵	2938	FLAVOR
+3116	Jiarong	JR	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔŋ⁵	2938	FLAVOR
+3126	Shuiwei	SW	sand1270	odour	196	poŋ⁵	poŋ⁵	pɔɐŋ⁵	2938	FLAVOR
+3136	Pandong	PD	pand1262	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3146	Jiaoli	JL	pand1262	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
+3156	Tangnian	TN	anya1244	odour	196	puŋ³	puŋ³	poŋ³	2938	FLAVOR
+3166	Banliang	BL	anya1244	odour	196	puŋ⁵	puŋ⁵	poŋ⁵	2938	FLAVOR
 #
 9479	Sandong	SD	sand1270	often	607	ʔnam³	ʔnam³	ʔnɐm³	1852	OFTEN
 9485	Zhonghe	ZH	sand1270	often	607	ʔnam³, kam³	ʔnam³	ʔnɐm³	1852	OFTEN
@@ -4707,22 +4707,22 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 7630	Tangnian	TN	anya1244	one	485	ti³	ti³	ti³	1493	ONE
 7641	Banliang	BL	anya1244	one	485	ti³	ti³	ti³	1493	ONE
 #
-7476	Sandong	SD	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjɪt⁷	278	FIRST
-7487	Zhonghe	ZH	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjɪt⁷	278	FIRST
-7498	Tingpai	TP	sand1270	one (first)	486	ti³ ʔjat⁷	ti³ ʔjat⁷	ti³ ʔjat⁷	278	FIRST
-7509	Antang	AT	sand1270	one (first)	486	ti³ ʔjət⁷	ti³ ʔjət⁷	ti³ ʔjet⁷	278	FIRST
-7520	Tangzhou	TZ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	278	FIRST
-7531	Dujiang	DJ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	278	FIRST
-7542	Sanjiang	SJ	sand1270	one (first)	486	ti³ ʔjət⁷	ti³ ʔjət⁷	ti³ ʔjɪt⁷	278	FIRST
-7553	Renli	RL	sand1270	one (first)	486	ti³ jət⁷	ti³ jət⁷	ti³ jɪt⁷	278	FIRST
-7564	Juqian	JQ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	278	FIRST
-7575	Shuiyao	SY	sand1270	one (first)	486	ʔit⁷	ʔit⁷	ʔit⁷	278	FIRST
-7587	Jiarong	JR	sand1270	one (first)	486	ʔjit⁷	ʔjit⁷	ʔjit⁷	278	FIRST
-7598	Shuiwei	SW	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	278	FIRST
-7609	Pandong	PD	pand1262	one (first)	486	tai⁶ jat⁷	tai⁶ jat⁷	tai⁶ jat⁷	278	FIRST
-7620	Jiaoli	JL	pand1262	one (first)	486	ta⁶ jat⁷	ta⁶ jat⁷	ta⁶ jɜt⁷	278	FIRST
-7631	Tangnian	TN	anya1244	one (first)	486	ti³ ɣət⁷	ti³ ɣət⁷	ti³ ɣət⁷	278	FIRST
-7642	Banliang	BL	anya1244	one (first)	486	ton² ɣət⁷	ton² ɣət⁷	tɔːn² ɡət⁷	278	FIRST
+7476	Sandong	SD	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjɪt⁷	728	FIRST
+7487	Zhonghe	ZH	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjɪt⁷	728	FIRST
+7498	Tingpai	TP	sand1270	one (first)	486	ti³ ʔjat⁷	ti³ ʔjat⁷	ti³ ʔjat⁷	728	FIRST
+7509	Antang	AT	sand1270	one (first)	486	ti³ ʔjət⁷	ti³ ʔjət⁷	ti³ ʔjet⁷	728	FIRST
+7520	Tangzhou	TZ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	728	FIRST
+7531	Dujiang	DJ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	728	FIRST
+7542	Sanjiang	SJ	sand1270	one (first)	486	ti³ ʔjət⁷	ti³ ʔjət⁷	ti³ ʔjɪt⁷	728	FIRST
+7553	Renli	RL	sand1270	one (first)	486	ti³ jət⁷	ti³ jət⁷	ti³ jɪt⁷	728	FIRST
+7564	Juqian	JQ	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	728	FIRST
+7575	Shuiyao	SY	sand1270	one (first)	486	ʔit⁷	ʔit⁷	ʔit⁷	728	FIRST
+7587	Jiarong	JR	sand1270	one (first)	486	ʔjit⁷	ʔjit⁷	ʔjit⁷	728	FIRST
+7598	Shuiwei	SW	sand1270	one (first)	486	ʔjət⁷	ʔjət⁷	ʔjet⁷	728	FIRST
+7609	Pandong	PD	pand1262	one (first)	486	tai⁶ jat⁷	tai⁶ jat⁷	tai⁶ jat⁷	728	FIRST
+7620	Jiaoli	JL	pand1262	one (first)	486	ta⁶ jat⁷	ta⁶ jat⁷	ta⁶ jɜt⁷	728	FIRST
+7631	Tangnian	TN	anya1244	one (first)	486	ti³ ɣət⁷	ti³ ɣət⁷	ti³ ɣət⁷	728	FIRST
+7642	Banliang	BL	anya1244	one (first)	486	ton² ɣət⁷	ton² ɣət⁷	tɔːn² ɡət⁷	728	FIRST
 #
 7474	Sandong	SD	sand1270	one, single	484	laːu³	laːu³	laːu³		
 7485	Zhonghe	ZH	sand1270	one, single	484	laːu³	laːu³	laːu³		
@@ -9209,22 +9209,22 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 6826	Tangnian	TN	anya1244	to warm oneself	432	pʰjaːu¹	pʰjaːu¹	pʰjaːu¹		
 6836	Banliang	BL	anya1244	to warm oneself	432	pʰjaːu¹	pʰjaːu¹	pʰjaːu¹		
 #
-5392	Sandong	SD	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5401	Zhonghe	ZH	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5410	Tingpai	TP	sand1270	to wash (clothes)	349	lak⁷	lak⁷	laʔ⁷	1453	
-5419	Antang	AT	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5428	Tangzhou	TZ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5437	Dujiang	DJ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5446	Sanjiang	SJ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5455	Renli	RL	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5464	Juqian	JQ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5473	Shuiyao	SY	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5482	Jiarong	JR	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5491	Shuiwei	SW	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5500	Pandong	PD	pand1262	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5509	Jiaoli	JL	pand1262	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	1453	
-5518	Tangnian	TN	anya1244	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
-5527	Banliang	BL	anya1244	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	1453	
+5392	Sandong	SD	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5401	Zhonghe	ZH	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5410	Tingpai	TP	sand1270	to wash (clothes)	349	lak⁷	lak⁷	laʔ⁷	2503	LAUNDER
+5419	Antang	AT	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5428	Tangzhou	TZ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5437	Dujiang	DJ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5446	Sanjiang	SJ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5455	Renli	RL	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5464	Juqian	JQ	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5473	Shuiyao	SY	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5482	Jiarong	JR	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5491	Shuiwei	SW	sand1270	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5500	Pandong	PD	pand1262	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5509	Jiaoli	JL	pand1262	to wash (clothes)	349	lak⁷	lak⁷	lɐk⁷	2503	LAUNDER
+5518	Tangnian	TN	anya1244	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
+5527	Banliang	BL	anya1244	to wash (clothes)	349	lak⁷	lak⁷	lak⁷	2503	LAUNDER
 #
 5391	Sandong	SD	sand1270	to wash (hands)	348	suk⁸	suk⁸	sʊk⁸	1453	WASH
 5400	Zhonghe	ZH	sand1270	to wash (hands)	348	suk⁸	suk⁸	sʊk⁸	1453	WASH
@@ -10042,22 +10042,22 @@ ID	DOCULECT	DOCULECTID	GLOTTOCODE	CONCEPT	GLOSSID	VALUE	FORM	PHONETIC	CONCEPTICO
 3589	Tangnian	TN	anya1244	yoke	216	jət⁷	jət⁷	jet⁷	14	YOKE
 3598	Banliang	BL	anya1244	yoke	216	jit⁷	jit⁷	jiːt⁷	14	YOKE
 #
-1373	Sandong	SD	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵		
-1384	Zhonghe	ZH	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵		
-1395	Tingpai	TP	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1406	Antang	AT	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵		
-1417	Tangzhou	TZ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵		
-1428	Dujiang	DJ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵		
-1439	Sanjiang	SJ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵		
-1450	Renli	RL	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1461	Juqian	JQ	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1472	Shuiyao	SY	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1483	Jiarong	JR	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1494	Shuiwei	SW	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵		
-1505	Pandong	PD	pand1262	young	093	qaːi⁵ ɣaːŋ⁵	qaːi⁵ ɣaːŋ⁵	qaːi⁵ ɣaːŋ⁵		
-1516	Jiaoli	JL	pand1262	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵		
-1527	Tangnian	TN	anya1244	young	093	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶		
-1538	Banliang	BL	anya1244	young	093	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶		
+1373	Sandong	SD	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1384	Zhonghe	ZH	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1395	Tingpai	TP	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1406	Antang	AT	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1417	Tangzhou	TZ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1428	Dujiang	DJ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ᶰɢaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1439	Sanjiang	SJ	sand1270	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1450	Renli	RL	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1461	Juqian	JQ	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1472	Shuiyao	SY	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1483	Jiarong	JR	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1494	Shuiwei	SW	sand1270	young	093	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	qaːi⁵ ʁaːŋ⁵	2513	CHICKEN CHICK
+1505	Pandong	PD	pand1262	young	093	qaːi⁵ ɣaːŋ⁵	qaːi⁵ ɣaːŋ⁵	qaːi⁵ ɣaːŋ⁵	2513	CHICKEN CHICK
+1516	Jiaoli	JL	pand1262	young	093	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	ʁaːŋ⁵ qaːi⁵	2513	CHICKEN CHICK
+1527	Tangnian	TN	anya1244	young	093	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	2513	CHICKEN CHICK
+1538	Banliang	BL	anya1244	young	093	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	qaːi⁵ qaːŋ⁶	2513	CHICKEN CHICK
 #
 4375	Sandong	SD	sand1270	younger siblings	280	nu⁴	nu⁴	nu⁴	427	YOUNGER SIBLING
 4384	Zhonghe	ZH	sand1270	younger siblings	280	nu⁴	nu⁴	nu⁴	427	YOUNGER SIBLING
