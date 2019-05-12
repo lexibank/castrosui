@@ -40,7 +40,7 @@ class Dataset(BaseDataset):
 
         data = self.raw.read_csv('wordlist.tsv', delimiter="\t")
         langs = {} # need for checking later
-        concepts = {c.number.rjust(3, '0'): c for c in self.conceptlist.concepts.values()}
+        concepts = OrderedDict([(c.number.rjust(3, '0'), c) for c in self.conceptlist.concepts.values()])
 
         with self.cldf as ds:
 

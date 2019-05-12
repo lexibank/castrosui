@@ -1,147 +1,992 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-ᵐb	ⁿb				
-ⁿ	NULL				
-^	NULL				
 $	NULL				
-_	+				
-<p>̃³_hu¹	pʰ u ³/¹				
-_ᵐ	+				
-a	a	va⁵, pjam¹	Tingpai, Pandong, Jiaoli, Shuiyao, Shuiwei, Banliang, Renli, Sanjiang, Juqian, Jiarong, Dujiang, Zhonghe, Tangnian, Sandong, Antang, Tangzhou	3265	U+0061
-¹$	¹/¹	pjam¹, van¹	Juqian, Shuiyao, Zhonghe, Sandong, Jiarong, Shuiwei, Renli, Jiaoli, Tingpai, Sanjiang, Tangzhou, Dujiang, Tangnian, Antang, Pandong, Banliang	2647	U+00b9 U+0024
-u	u	kʰuŋ³, kuŋ²	Pandong, Tingpai, Jiaoli, Antang, Banliang, Renli, Tangnian, Tangzhou, Sandong, Sanjiang, Zhonghe, Dujiang, Juqian, Shuiwei, Jiarong, Shuiyao	2446	U+0075
-i	i	ti³, ȶit⁸	Pandong, Jiaoli, Antang, Tingpai, Tangzhou, Tangnian, Shuiyao, Sandong, Renli, Sanjiang, Zhonghe, Jiarong, Banliang, Juqian, Dujiang, Shuiwei	2306	U+0069
-aː	aː	laːk⁸ mbaːn¹, vaːŋ¹	Sandong, Juqian, Zhonghe, Renli, Tangnian, Shuiwei, Shuiyao, Dujiang, Sanjiang, Jiarong, Banliang, Tangzhou, Tingpai, Antang, Pandong, Jiaoli	2094	U+0061 U+02d0
-n	n	van¹, ʔnaŋ¹	Zhonghe, Tingpai, Antang, Sandong, Juqian, Shuiwei, Tangzhou, Jiarong, Dujiang, Banliang, Shuiyao, Tangnian, Pandong, Sanjiang, Renli, Jiaoli	1834	U+006e
-j	j	pjam¹, ljok⁸	Dujiang, Sanjiang, Juqian, Renli, Shuiwei, Sandong, Jiarong, Zhonghe, Tangzhou, Tangnian, Jiaoli, Shuiyao, Banliang, Pandong, Antang, Tingpai	1530	U+006a
-³$	³/¹	ti³, kʰuŋ³	Renli, Sanjiang, Shuiwei, Juqian, Dujiang, Shuiyao, Sandong, Tingpai, Antang, Jiaoli, Jiarong, Tangnian, Banliang, Pandong, Zhonghe, Tangzhou	1438	U+00b3 U+0024
-⁷$	⁷/¹	laːk⁷, pek⁷	Juqian, Sandong, Shuiyao, Antang, Tangzhou, Shuiwei, Sanjiang, Zhonghe, Jiarong, Renli, Tingpai, Dujiang, Banliang, Pandong, Tangnian, Jiaoli	1424	U+2077 U+0024
-⁵$	⁵/¹	va⁵, ɣaːŋ⁵	Sanjiang, Shuiwei, Juqian, Banliang, Jiaoli, Dujiang, Antang, Renli, Pandong, Sandong, Tingpai, Zhonghe, Tangzhou, Tangnian, Shuiyao, Jiarong	1285	U+2075 U+0024
-m	m	pjam¹, ⁿdam¹	Tangzhou, Dujiang, Shuiwei, Zhonghe, Sandong, Tingpai, Juqian, Antang, Jiaoli, Tangnian, Sanjiang, Shuiyao, Renli, Banliang, Jiarong, Pandong	1210	U+006d
-ŋ	ŋ	vaːŋ¹, ⁿdaːŋ¹	Juqian, Shuiyao, Shuiwei, Jiarong, Pandong, Zhonghe, Jiaoli, Antang, Renli, Dujiang, Sandong, Sanjiang, Tangzhou, Tingpai, Tangnian, Banliang	1198	U+014b
-^ʔ	ʔ	ʔnaŋ¹, ʔam⁵	Juqian, Shuiwei, Sandong, Zhonghe, Antang, Tingpai, Tangzhou, Jiarong, Shuiyao, Dujiang, Sanjiang, Renli, Tangnian, Banliang, Pandong, Jiaoli	1127	U+005e U+0294
-k	k	laːk⁷, pek⁷	Pandong, Zhonghe, Tangnian, Shuiyao, Dujiang, Antang, Tangzhou, Banliang, Renli, Sandong, Sanjiang, Tingpai, Jiarong, Juqian, Shuiwei, Jiaoli	986	U+006b
-²$	²/¹	pi², kuŋ²	Tangnian, Jiaoli, Banliang, Antang, Pandong, Tangzhou, Sandong, Tingpai, Zhonghe, Dujiang, Renli, Sanjiang, Jiarong, Juqian, Shuiwei, Shuiyao	968	U+00b2 U+0024
-o	o	ho³, tok⁷	Jiarong, Juqian, Shuiwei, Sanjiang, Shuiyao, Jiaoli, Tangzhou, Pandong, Zhonghe, Antang, Banliang, Sandong, Dujiang, Tangnian, Tingpai, Renli	865	U+006f
-t	t	ȶit⁸, ɕət⁷	Tingpai, Tangzhou, Banliang, Jiaoli, Sandong, Shuiwei, Juqian, Tangnian, Zhonghe, Antang, Shuiyao, Renli, Dujiang, Pandong, Jiarong, Sanjiang	840	U+0074
-^t	t	ti³, tok⁷	Banliang, Shuiwei, Jiarong, Juqian, Jiaoli, Tangnian, Tangzhou, Sandong, Pandong, Dujiang, Zhonghe, Antang, Tingpai, Sanjiang, Renli, Shuiyao	835	U+005e U+0074
-ə	ə	sən¹, ɕət⁷	Pandong, Tangzhou, Antang, Jiaoli, Tangnian, Juqian, Shuiwei, Shuiyao, Banliang, Dujiang, Zhonghe, Sandong, Renli, Sanjiang, Jiarong, Tingpai	810	U+0259
-e	e	pek⁷, le¹	Antang, Jiaoli, Shuiwei, Juqian, Jiarong, Zhonghe, Shuiyao, Sanjiang, Sandong, Dujiang, Tangnian, Renli, Tangzhou, Banliang, Pandong, Tingpai	779	U+0065
-^l	l	laːk⁷, lam¹	Tangnian, Antang, Banliang, Dujiang, Sanjiang, Tangzhou, Zhonghe, Pandong, Renli, Sandong, Tingpai, Jiaoli, Shuiwei, Shuiyao, Jiarong, Juqian	755	U+005e U+006c
-^h	h	ha³, ho³	Pandong, Sanjiang, Renli, Dujiang, Jiaoli, Tangnian, Antang, Shuiyao, Tingpai, Sandong, Banliang, Zhonghe, Shuiwei, Juqian, Tangzhou, Jiarong	681	U+005e U+0068
-⁴$	⁴/¹	ja⁴, nu⁴	Pandong, Tangnian, Jiaoli, Dujiang, Shuiwei, Banliang, Jiarong, Sanjiang, Juqian, Shuiyao, Antang, Tangzhou, Renli, Sandong, Tingpai, Zhonghe	655	U+2074 U+0024
-⁶$	⁶/¹	ta⁶, ŋaːn⁶	Pandong, Shuiyao, Tangnian, Tangzhou, Jiarong, Zhonghe, Banliang, Sandong, Shuiwei, Tingpai, Sanjiang, Dujiang, Juqian, Antang, Jiaoli, Renli	570	U+2076 U+0024
-p	p	tip⁷, taːp⁷	Sanjiang, Renli, Tangnian, Pandong, Banliang, Jiaoli, Juqian, Sandong, Jiarong, Shuiwei, Antang, Zhonghe, Tangzhou, Shuiyao, Dujiang, Tingpai	514	U+0070
-^m	m	man², maŋ⁴	Tangnian, Banliang, Jiaoli, Pandong, Renli, Sanjiang, Tingpai, Antang, Tangzhou, Shuiyao, Zhonghe, Shuiwei, Juqian, Dujiang, Sandong, Jiarong	485	U+005e U+006d
-⁸$	⁸/¹	ȶit⁸, nok⁸	Tangzhou, Banliang, Dujiang, Tangnian, Zhonghe, Antang, Sandong, Tingpai, Shuiyao, Shuiwei, Juqian, Jiarong, Renli, Sanjiang, Pandong, Jiaoli	468	U+2078 U+0024
-^p	p	pjam¹, pi²	Banliang, Tangnian, Sanjiang, Dujiang, Tangzhou, Renli, Antang, Pandong, Sandong, Tingpai, Jiaoli, Zhonghe, Shuiwei, Jiarong, Juqian, Shuiyao	425	U+005e U+0070
-^q	q	qa¹, qaːi⁵	Shuiwei, Juqian, Shuiyao, Jiarong, Banliang, Tangnian, Sanjiang, Dujiang, Renli, Pandong, Tangzhou, Sandong, Zhonghe, Jiaoli, Tingpai, Antang	395	U+005e U+0071
-^n	n	nam³, nok⁸	Jiaoli, Renli, Banliang, Pandong, Sanjiang, Tangnian, Zhonghe, Antang, Tangzhou, Tingpai, Dujiang, Sandong, Jiarong, Shuiwei, Juqian, Shuiyao	388	U+005e U+006e
-^ⁿd	ⁿd	ⁿdam¹, ⁿdaːŋ¹	Renli, Sanjiang, Jiaoli, Pandong, Dujiang, Sandong, Tingpai, Zhonghe, Antang, Tangzhou, Shuiyao, Tangnian, Jiarong, Juqian, Shuiwei, Banliang	361	U+005e U+207f U+0064
-^s	s	sən¹, sui³	Juqian, Zhonghe, Shuiyao, Sandong, Tangnian, Antang, Shuiwei, Jiarong, Tangzhou, Sanjiang, Dujiang, Renli, Tingpai, Jiaoli, Banliang, Pandong	337	U+005e U+0073
-^k	k	ka¹, ka³	Pandong, Jiaoli, Banliang, Shuiyao, Tingpai, Sanjiang, Tangnian, Juqian, Zhonghe, Antang, Renli, Jiarong, Sandong, Dujiang, Tangzhou, Shuiwei	323	U+005e U+006b
-^ȶ	ȶ	ȶit⁸, ȶa⁵	Pandong, Banliang, Shuiwei, Tangnian, Dujiang, Tingpai, Antang, Sandong, Juqian, Sanjiang, Tangzhou, Renli, Jiaoli, Zhonghe, Jiarong, Shuiyao	322	U+005e U+0236
-^v	v	va⁵, van¹	Juqian, Shuiyao, Jiaoli, Shuiwei, Renli, Tangnian, Tingpai, Sanjiang, Tangzhou, Sandong, Jiarong, Antang, Pandong, Dujiang, Zhonghe, Banliang	296	U+005e U+0076
-³	³/¹	te³ haːk⁷, te³ tak⁷	Jiaoli, Sanjiang, Pandong, Tangnian, Zhonghe, Tangzhou, Banliang, Renli, Shuiwei, Tingpai, Dujiang, Juqian, Shuiyao, Jiarong, Antang, Sandong	289	U+00b3
-^ts	ts	tsuŋ¹, tsam²	Juqian, Shuiyao, Jiarong, Tangzhou, Sandong, Zhonghe, Antang, Tingpai, Shuiwei, Renli, Jiaoli, Sanjiang, Dujiang, Banliang, Tangnian	272	U+005e U+0074 U+0073
-¹	¹/¹	ʔma¹ qaːt⁷, van¹ ʔȵu¹	Juqian, Shuiwei, Zhonghe, Antang, Jiaoli, Tangnian, Shuiyao, Pandong, Jiarong, Tingpai, Sandong, Tangzhou, Dujiang, Banliang, Sanjiang, Renli	269	U+00b9
-^f	f	faːk⁷, faːn¹	Dujiang, Jiarong, Tangzhou, Antang, Sandong, Tingpai, Sanjiang, Zhonghe, Renli, Jiaoli, Juqian, Shuiyao, Shuiwei, Banliang, Tangnian, Pandong	260	U+005e U+0066
-d	d	ʔdjup⁷, ʔdoŋ³	Juqian, Antang, Shuiyao, Shuiwei, Jiarong, Tingpai, Tangzhou, Zhonghe, Sandong, Pandong, Jiaoli, Dujiang, Sanjiang, Tangnian	238	U+0064
-^ɣ	ɣ	ɣaːŋ⁵, ɣum⁴	Tangnian, Sanjiang, Dujiang, Banliang, Pandong, Jiarong, Renli, Shuiyao, Jiaoli, Shuiwei, Juqian, Sandong, Zhonghe, Tangzhou, Antang, Tingpai	216	U+005e U+0263
-^ɕ	ɕ	ɕət⁷, ɕaŋ²	Zhonghe, Tangzhou, Shuiyao, Sandong, Juqian, Tingpai, Jiarong, Antang, Pandong, Shuiwei, Dujiang, Tangnian, Sanjiang, Renli, Jiaoli, Banliang	214	U+005e U+0255
-^j	j	ja¹, ja⁴	Renli, Pandong, Tangnian, Jiaoli, Banliang, Sandong, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Shuiwei, Shuiyao, Jiarong, Juqian, Tingpai	213	U+005e U+006a
-^pʰ	pʰ	pʰaːŋ³, pʰa¹	Banliang, Tangnian, Pandong, Jiaoli, Juqian, Antang, Renli, Sandong, Shuiwei, Tingpai, Sanjiang, Dujiang, Tangzhou, Jiarong, Zhonghe, Shuiyao	190	U+005e U+0070 U+02b0
-⁴	⁴/¹	ni⁴ maːŋ², mai⁴ ʁaːn¹	Jiaoli, Zhonghe, Banliang, Sanjiang, Shuiwei, Renli, Tangnian, Tangzhou, Antang, Sandong, Dujiang, Juqian, Shuiyao, Tingpai, Jiarong, Pandong	181	U+2074
-b	b	ʔbin³, laːk⁸ mbaːn¹	Shuiwei, Jiarong, Zhonghe, Sandong, Juqian, Shuiyao, Tingpai, Antang, Sanjiang, Dujiang, Renli, Pandong, Jiaoli, Tangnian, Tangzhou	164	U+0062
-^kʰ	kʰ	kʰuŋ³, kʰau⁵	Banliang, Jiaoli, Pandong, Sanjiang, Zhonghe, Shuiyao, Jiarong, Tangnian, Antang, Renli, Sandong, Dujiang, Tangzhou, Tingpai, Shuiwei, Juqian	150	U+005e U+006b U+02b0
-^ȵ	ȵ	ȵaːu⁶, ȵaːn¹	Jiaoli, Banliang, Pandong, Tangnian, Renli, Sanjiang, Sandong, Dujiang, Juqian, Tangzhou, Tingpai, Zhonghe, Shuiyao, Jiarong, Antang, Shuiwei	139	U+005e U+0235
-^ᵐb	ⁿb	ᵐbaːn¹, ᵐbiŋ¹	Renli, Sanjiang, Dujiang, Pandong, Shuiwei, Juqian, Jiarong, Sandong, Jiaoli, Zhonghe, Shuiyao, Tangnian, Tangzhou, Antang, Tingpai, Banliang	136	U+005e U+1d50 U+0062
-^ŋ	ŋ	ŋo⁴, ŋaːn⁶	Tangnian, Banliang, Pandong, Sanjiang, Shuiyao, Renli, Jiaoli, Zhonghe, Antang, Tangzhou, Sandong, Tingpai, Dujiang, Jiarong, Shuiwei, Juqian	127	U+005e U+014b
-ȵ	ȵ	ʔȵit⁷, van¹ ʔȵu¹	Juqian, Shuiwei, Sandong, Tingpai, Zhonghe, Shuiyao, Jiarong, Dujiang, Antang, Tangzhou, Tangnian, Banliang, Sanjiang, Renli, Jiaoli, Pandong	125	U+0235
-ʔ	ʔ	van¹ ʔȵu¹, van¹ ʔmu³	Shuiyao, Juqian, Shuiwei, Jiarong, Zhonghe, Antang, Tingpai, Tangzhou, Sandong, Dujiang, Jiaoli, Sanjiang, Pandong	113	U+0294
-l	l	ʔo³ ljok⁷, m̥u⁵ laːi⁵	Tingpai, Jiaoli, Tangzhou, Renli, Banliang, Pandong, Sanjiang, Dujiang, Antang, Sandong, Zhonghe, Tangnian, Shuiwei, Juqian, Jiarong, Shuiyao	109	U+006c
-⁵	⁵/¹	ɣaːŋ⁵ ɣau¹, ʁaːŋ⁵ qaːi⁵	Pandong, Jiaoli, Banliang, Tingpai, Shuiyao, Tangnian, Renli, Sanjiang, Sandong, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Jiarong, Dujiang	96	U+2075
-^qʰ	qʰ	qʰan¹, qʰaːt⁷	Juqian, Shuiwei, Shuiyao, Banliang, Jiarong, Tangnian, Tangzhou, Sanjiang, Dujiang, Zhonghe, Antang, Renli, Pandong, Sandong, Tingpai, Jiaoli	94	U+005e U+0071 U+02b0
-⁸	⁸/¹	laːk⁸ mbaːn¹, laːk⁸ haːu⁴	Banliang, Pandong, Tingpai, Sanjiang, Tangzhou, Tangnian, Juqian, Zhonghe, Antang, Renli, Dujiang, Jiarong, Sandong, Shuiwei, Shuiyao, Jiaoli	93	U+2078
-h	h	te³ haːk⁷, laːk⁸ haːu⁴	Pandong, Sanjiang, Renli, Dujiang, Antang, Tangnian, Banliang, Tingpai, Jiaoli, Shuiwei, Zhonghe, Tangzhou, Sandong, Juqian, Shuiyao, Jiarong	84	U+0068
-ɣ	ɣ	ʔɣak⁷, ʔɣa⁵	Sandong, Zhonghe, Tangzhou, Shuiyao, Tingpai, Jiarong, Juqian, Shuiwei, Antang, Tangnian, Banliang, Pandong, Jiaoli, Sanjiang, Renli	80	U+0263
-^<p>̥	p	<p>̥ȵaːŋ³, <p>̃hu⁵ laːi⁵	Renli, Sanjiang, Pandong, Jiaoli, Tangnian, Banliang, Dujiang, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Tingpai, Jiarong	79	U+005e U+003c
-<p>̃h	pʰ				
-^m̥	m̥	m̥a⁵, m̥jaːn³	Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Shuiwei, Tingpai, Jiarong, Banliang	78	U+005e U+006d U+0325
-⁷	⁷/¹	laːk⁷ kʰət⁷, laːk⁷ laːi¹	Tangnian, Tingpai, Dujiang, Antang, Banliang, Pandong, Sandong, Zhonghe, Renli, Sanjiang, Shuiwei, Tangzhou, Juqian, Shuiyao, Jiarong, Jiaoli	77	U+2077
-^z	z	zət⁷, zən¹	Tingpai, Zhonghe, Antang, Jiaoli, Sanjiang, Dujiang, Tangzhou, Renli, Tangnian, Juqian, Shuiyao, Sandong, Jiarong, Shuiwei, Banliang	72	U+005e U+007a
-^tʰ	tʰ	tʰau⁵, tʰaːu³	Banliang, Tangnian, Sanjiang, Juqian, Zhonghe, Antang, Sandong, Tingpai, Jiarong, Dujiang, Shuiwei, Tangzhou, Renli, Shuiyao, Pandong, Jiaoli	72	U+005e U+0074 U+02b0
-^n̥	n̥	n̥a³, n̥o¹	Shuiwei, Dujiang, Shuiyao, Sandong, Zhonghe, Antang, Tangzhou, Tingpai, Juqian, Jiarong, Tangnian, Banliang	71	U+005e U+006e U+0325
-^kw	k w	kwan², kweŋ²	Shuiyao, Juqian, Shuiwei, Dujiang, Zhonghe, Antang, Renli, Banliang, Sandong, Jiarong, Tangzhou, Sanjiang, Tangnian, Tingpai, Pandong	70	U+005e U+006b U+0077
-²	²/¹	pi² mai⁴, ɣui² tin¹	Pandong, Jiaoli, Tangnian, Banliang, Dujiang, Shuiwei, Antang, Renli, Sandong, Tingpai, Zhonghe, Tangzhou, Shuiyao, Sanjiang, Jiarong	69	U+00b2
-^ʁ	ʁ	ʁa¹, ʁaːi⁵	Juqian, Shuiyao, Shuiwei, Jiarong, Sanjiang, Dujiang, Zhonghe, Sandong, Antang, Tangzhou, Renli, Tingpai, Jiaoli, Banliang	64	U+005e U+0281
-⁶	⁶/¹	ti⁶ tau¹, to⁶ laːk⁸	Jiaoli, Renli, Pandong, Shuiwei, Sanjiang, Antang, Shuiyao, Jiarong, Juqian, Zhonghe, Tangzhou, Banliang, Dujiang, Sandong, Tingpai	58	U+2076
-q	q	ʔma¹ qaːt⁷, ʁaːŋ⁵ qaːi⁵	Sanjiang, Banliang, Pandong, Tangnian, Zhonghe, Antang, Tangzhou, Renli, Jiaoli, Sandong, Tingpai, Dujiang, Juqian, Shuiwei, Shuiyao, Jiarong	44	U+0071
-_ⁿd	+ ⁿd	ȶən¹ ⁿdaːu¹, ʔu¹ ⁿdən¹	Pandong, Dujiang, Jiaoli, Antang, Tingpai, Tangnian, Zhonghe, Sandong, Sanjiang, Tangzhou, Juqian, Shuiwei	39	U+005f U+207f
-^ȶʰ	ȶʰ	ȶʰin¹, ȶʰən³	Tangnian, Banliang, Juqian, Shuiwei, Tingpai, Tangzhou, Sandong, Jiarong, Zhonghe, Antang, Shuiyao	38	U+005e U+0236 U+02b0
-ɕ	ɕ	laːk⁸ ɕa³, ʔau⁴ ɕən¹	Zhonghe, Tangzhou, Jiaoli, Sanjiang, Dujiang, Renli, Pandong, Sandong, Tingpai, Tangnian, Juqian, Antang, Banliang, Jiarong, Shuiwei	35	U+0255
-^x	x	xe¹, xən²	Jiarong, Juqian, Shuiwei, Tangnian, Shuiyao, Tangzhou	34	U+005e U+0078
-f	f	mai⁴ fuŋ³, ʔau⁴ fjaːŋ³	Antang, Tangzhou, Tingpai, Zhonghe, Jiaoli, Dujiang, Jiarong, Sandong, Shuiwei, Sanjiang, Tangnian, Renli, Banliang	31	U+0066
-kʰ	kʰ	laːk⁷ kʰət⁷, tu³ kʰup⁷	Banliang, Sanjiang, Renli, Dujiang, Shuiwei, Zhonghe, Antang, Tangzhou, Jiaoli, Sandong, Juqian, Pandong, Tangnian, Tingpai, Jiarong	29	U+006b U+02b0
-^ŋ̊	ŋ̊	ŋ̊aːn⁵, ŋ̊ai¹	Jiarong, Shuiwei, Juqian, Tangzhou, Dujiang, Zhonghe, Antang, Shuiyao, Sandong, Tangnian, Tingpai, Banliang	29	U+005e U+014b U+030a
-s	s	ȶən¹ saːu¹, vjan¹ saːn²	Juqian, Shuiwei, Sanjiang, Tangnian, Shuiyao, Banliang, Sandong, Jiaoli, Dujiang, Zhonghe, Antang, Tangzhou, Renli, Pandong, Jiarong, Tingpai	28	U+0073
-v	v	ʔda¹ van¹, vu⁴ vat⁷	Pandong, Jiaoli, Zhonghe, Antang, Tangnian, Dujiang, Juqian, Tangzhou, Shuiyao, Renli, Banliang, Sandong, Shuiwei, Tingpai, Jiarong	25	U+0076
-n̥	n̥	tsən¹ n̥aːŋ³, ɕam³ n̥a³	Banliang, Zhonghe, Tangzhou, Sandong, Dujiang, Juqian, Shuiyao, Shuiwei, Tangnian, Tingpai	23	U+006e U+0325
-ʁ	ʁ	mai⁴ ʁaːn¹, qaːi⁵ ʁaːŋ⁵	Jiarong, Juqian, Shuiyao, Renli, Shuiwei, Tingpai, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Jiaoli, Sandong	21	U+0281
-uː	uː	puːt⁷, juːt⁷	Dujiang, Zhonghe, Tingpai, Banliang	21	U+0075 U+02d0
-^ŋw	ŋ w	ŋwaːŋ⁶, ŋwa⁴	Tangnian, Shuiyao, Banliang, Pandong, Tingpai, Sanjiang, Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Jiarong	20	U+005e U+014b U+0077
-ȶ	ȶ	ti³ ȶaŋ², qa⁶ ȶu³	Shuiyao, Sanjiang, Banliang, Pandong, Jiaoli, Shuiwei, Tangnian, Zhonghe, Antang, Tangzhou, Renli, Tingpai, Jiarong	20	U+0236
-ŋw	ŋ w	ʔŋwat⁷, ʔŋwa³	Dujiang, Zhonghe, Antang, Tangzhou, Sandong, Tingpai, Jiarong, Shuiwei, Juqian, Shuiyao, Banliang, Tangnian	19	U+014b U+0077
-ts	ts	naːu⁵ tsau⁶, tə³ tsjaːŋ²	Jiarong, Juqian, Jiaoli, Sanjiang, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Tingpai	18	U+0074 U+0073
-z	z	ʔma¹ zui¹, ma¹ zui¹	Tangnian, Shuiyao, Sanjiang, Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Renli, Banliang, Pandong, Sandong, Shuiwei, Tingpai, Jiarong	17	U+007a
-⁰	⁰/¹	qu⁰ lu⁵, pə⁰ laːp⁷	Banliang, Renli, Jiaoli, Dujiang, Antang, Shuiyao, Sandong	17	U+2070
-<p>̥	p	<p>̥ȵaːŋ³, <p>̥ȵap⁷	Tangnian, Banliang, Dujiang, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Tingpai, Jiarong	16	U+003e U+0325
-<p>̃hw	pʰ w	<p>̃hwa¹, <p>̃hwat⁷	Renli, Tangnian, Sanjiang, Banliang, Pandong, Jiaoli	16	U+003e U+0303 U+0068 U+0077
-^tsʰ	tsʰ	tsʰə³, tsʰɿ⁴ kən³	Tangnian, Tingpai, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Renli, Banliang, Jiaoli, Sandong, Jiarong	15	U+005e U+0074 U+0073 U+02b0
-^ʔw	ʔ w	ʔwen⁵, ʔwaːŋ⁵	Dujiang, Juqian, Zhonghe, Antang, Shuiyao, Sandong, Tangzhou, Tingpai	14	U+005e U+0294 U+0077
-ẽ	ẽ	ʔẽ³, ni⁴ ʔẽ³	Banliang, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Tingpai, Jiaoli	12	U+1ebd
-eː	eː	ʔjeːn¹, ɕeːu³	Shuiyao, Dujiang, Tangzhou, Banliang	12	U+0065 U+02d0
-^hw	h w	hwən¹, hwaːk⁷	Pandong, Sanjiang	11	U+005e U+0068 U+0077
-^lw	l w	lwa¹, lwa⁵	Dujiang, Zhonghe, Sandong, Sanjiang	10	U+005e U+006c U+0077
-ɿ	ɿ	sɿ³ miŋ², tsʰɿ⁴ kən³	Zhonghe, Banliang, Tingpai, Antang, Tangzhou, Tangnian, Jiaoli	10	U+027f
-^h̃	h̃	h̃ju¹, h̃jaːn³	Jiaoli, Sanjiang, Renli, Pandong	10	U+005e U+0068 U+0303
-tsʰ	tsʰ	ʔma¹ po³ tsʰaːi¹, ma¹ po³ tsʰaːi¹	Jiaoli, Sanjiang, Juqian, Zhonghe, Tangzhou, Shuiyao, Renli, Sandong	9	U+0074 U+0073 U+02b0
-ĩ	ĩ	ʔĩ⁶, ʔĩt⁷	Sanjiang, Dujiang, Antang, Tangzhou, Renli, Sandong, Tangnian, Tingpai	9	U+0129
-^ȵ̥	ȵ̥	ȵ̥u¹, ȵ̥u¹ ju¹	Tangzhou, Sandong, Tingpai, Dujiang, Zhonghe, Antang	9	U+005e U+0235 U+0325
-ɯ	ɯ	tsa² lɯə¹, ⁿdɯə¹	Jiaoli	9	U+026f
-ȶʰ	ȶʰ	ti³ ȶʰi⁵, ʔma¹ ȶʰiu³	Tangnian, Antang, Tingpai, Banliang, Jiarong	8	U+0236 U+02b0
-kw	kʷ	lu⁵ kwa¹, tu³ kwen⁵	Tangnian, Shuiyao, Banliang, Shuiwei	7	U+006b U+0077
-^kʰw	kʰ w	kʰwən¹	Sanjiang, Dujiang, Juqian, Shuiyao, Sandong, Shuiwei, Tingpai	7	U+005e U+006b U+02b0 U+0077
-^h̃w	h̃ w	h̃wai⁵, h̃waːt⁷	Tangnian, Pandong, Sanjiang, Banliang, Renli	7	U+005e U+0068 U+0303 U+0077
-dw	d w	ʔdwa¹, haːi⁴ ʔdwa¹	Sandong, Zhonghe, Dujiang, Renli, Sanjiang	7	U+0064 U+0077
-_ᵐb	+ ᵐb	ʔu¹ ᵐbən¹, ᵐbu⁶ ᵐba³	Sanjiang, Dujiang, Pandong, Sandong, Renli	6	U+005f U+1d50
-õ	õ	hõ¹, ʔõi⁴	Banliang, Sanjiang, Tangnian	6	U+00f5
-ɪ	ɪ	laːu³ ɕɪŋ⁵, ɕɪp⁸	Sandong, Zhonghe, Tingpai, Jiarong	5	U+026a
-ã	ã	ka¹ hjã³, ȶik⁷ hjã³	Pandong, Tangnian, Jiarong, Banliang	5	U+00e3
-ũ	ũ	ȵ̥ũ¹, ʔũ³	Sandong, Banliang, Jiarong	4	U+0169
-qʰ	qʰ	laːk⁸ qʰaːn¹, ʔma¹ qʰum⁵	Shuiwei, Juqian, Jiarong	4	U+0071 U+02b0
-_'$	NULL	pai⁶ ', pəi⁶ '	Antang, Tangzhou, Banliang	4	U+0027 U+0024
-x	x	ʔdaːk⁷ xət⁷	Shuiwei, Juqian, Jiarong	3	U+0078
-^ⁿdw	ⁿd w	ⁿdwa¹	Sanjiang, Dujiang, Renli	3	U+005e U+207f U+0064 U+0077
-ʊ	ʊ	kə³ ljʊp⁷, ȶʊp⁷	Tangnian	3	U+028a
-pʰ	pʰ	ma¹ pʰau³ sai¹, ku³ pʰje¹	Pandong, Zhonghe	2	U+0070 U+02b0
-w	w	la¹ wan¹	Sanjiang, Dujiang	2	U+0077
-əː	əː	ljəːk⁸, tu³ tʰəːt⁸	Jiaoli	2	U+0259 U+02d0
-tʰ	tʰ	ᵐbi⁵ tʰjau⁴ kən³, tu³ tʰəːt⁸	Pandong, Jiaoli	2	U+0074 U+02b0
-ɘ	ɘ	kʰɘt⁷	Jiarong	1	U+0258
-ɔ	ɔ	kwɔŋ³	Renli	1	U+0254
-^ⁿj	ⁿj	ⁿjut⁷	Shuiyao	1	U+005e U+207f U+006a
 'p	p	pai⁶ 'paːk⁷	Zhonghe	1	U+0027 U+0070
-^ɬ	ɬ	ɬo³	Jiarong	1	U+005e U+026c
-ɛ	ɛ	sɛu³	Tangnian	1	U+025b
-^w	w	waːi¹	Shuiyao	1	U+005e U+0077
-⁵ ᵐb	⁵ ᵐb	pu⁵ᵐbin³	Renli	1	U+2075 U+1d50
-^ᵐi	ᵐ/m i	ᵐiŋ⁴	Jiarong	1	U+005e U+1d50 U+0069
-ɜ	ɜ	ɣɜt⁷	Zhonghe	1	U+025c
-ŋ̊	ŋ̊	tjui³ ŋ̊aːn³	Shuiwei	1	U+014b U+030a
-əᵒ	ə ᵒ/¹	pəᵒ laːp⁷	Sanjiang	1	U+0259 U+1d52
-<p>̃²_	p	ⁿdjoŋ <p>̃³ hu¹	Sanjiang	1	U+003e U+0303
-<p>̩ŋ	p ŋ̍	<p>̩ŋ²	Tangnian	1	U+003e U+0329
-ɐː	ɐː	mai⁴ ʁɐːn¹	Juqian	1	U+0250 U+02d0
-hw	h w	na³ hwaːn³	Pandong	1	U+0068 U+0077
 't	t	ta⁶ 'ti⁶	Zhonghe	1	U+0027 U+0074
+<p>̃h	pʰ				
+<p>̃hw	pʰ w	<p>̃hwa¹, <p>̃hwat⁷	Renli, Tangnian, Sanjiang, Banliang, Pandong, Jiaoli	16	U+003e U+0303 U+0068 U+0077
+<p>̃²_	p	ⁿdjoŋ <p>̃³ hu¹	Sanjiang	1	U+003e U+0303
+<p>̃³_hu¹	pʰ u ³/¹				
+<p>̥	p	<p>̥ȵaːŋ³, <p>̥ȵap⁷	Tangnian, Banliang, Dujiang, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Tingpai, Jiarong	16	U+003e U+0325
+<p>̩ŋ	p ŋ̍	<p>̩ŋ²	Tangnian	1	U+003e U+0329
+^	NULL				
+^<p>̥	p	<p>̥ȵaːŋ³, <p>̃hu⁵ laːi⁵	Renli, Sanjiang, Pandong, Jiaoli, Tangnian, Banliang, Dujiang, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Tingpai, Jiarong	79	U+005e U+003c
+^f	f	faːk⁷, faːn¹	Dujiang, Jiarong, Tangzhou, Antang, Sandong, Tingpai, Sanjiang, Zhonghe, Renli, Jiaoli, Juqian, Shuiyao, Shuiwei, Banliang, Tangnian, Pandong	260	U+005e U+0066
+^h	h	ha³, ho³	Pandong, Sanjiang, Renli, Dujiang, Jiaoli, Tangnian, Antang, Shuiyao, Tingpai, Sandong, Banliang, Zhonghe, Shuiwei, Juqian, Tangzhou, Jiarong	681	U+005e U+0068
+^hw	h w	hwən¹, hwaːk⁷	Pandong, Sanjiang	11	U+005e U+0068 U+0077
+^h̃	h̃	h̃ju¹, h̃jaːn³	Jiaoli, Sanjiang, Renli, Pandong	10	U+005e U+0068 U+0303
+^h̃w	h̃ w	h̃wai⁵, h̃waːt⁷	Tangnian, Pandong, Sanjiang, Banliang, Renli	7	U+005e U+0068 U+0303 U+0077
+^j	j	ja¹, ja⁴	Renli, Pandong, Tangnian, Jiaoli, Banliang, Sandong, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Shuiwei, Shuiyao, Jiarong, Juqian, Tingpai	213	U+005e U+006a
+^k	k	ka¹, ka³	Pandong, Jiaoli, Banliang, Shuiyao, Tingpai, Sanjiang, Tangnian, Juqian, Zhonghe, Antang, Renli, Jiarong, Sandong, Dujiang, Tangzhou, Shuiwei	323	U+005e U+006b
+^kw	k w	kwan², kweŋ²	Shuiyao, Juqian, Shuiwei, Dujiang, Zhonghe, Antang, Renli, Banliang, Sandong, Jiarong, Tangzhou, Sanjiang, Tangnian, Tingpai, Pandong	70	U+005e U+006b U+0077
+^kʰ	kʰ	kʰuŋ³, kʰau⁵	Banliang, Jiaoli, Pandong, Sanjiang, Zhonghe, Shuiyao, Jiarong, Tangnian, Antang, Renli, Sandong, Dujiang, Tangzhou, Tingpai, Shuiwei, Juqian	150	U+005e U+006b U+02b0
+^kʰw	kʰ w	kʰwən¹	Sanjiang, Dujiang, Juqian, Shuiyao, Sandong, Shuiwei, Tingpai	7	U+005e U+006b U+02b0 U+0077
+^l	l	laːk⁷, lam¹	Tangnian, Antang, Banliang, Dujiang, Sanjiang, Tangzhou, Zhonghe, Pandong, Renli, Sandong, Tingpai, Jiaoli, Shuiwei, Shuiyao, Jiarong, Juqian	755	U+005e U+006c
+^lw	l w	lwa¹, lwa⁵	Dujiang, Zhonghe, Sandong, Sanjiang	10	U+005e U+006c U+0077
+^m	m	man², maŋ⁴	Tangnian, Banliang, Jiaoli, Pandong, Renli, Sanjiang, Tingpai, Antang, Tangzhou, Shuiyao, Zhonghe, Shuiwei, Juqian, Dujiang, Sandong, Jiarong	485	U+005e U+006d
+^m̥	m̥	m̥a⁵, m̥jaːn³	Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Sandong, Shuiwei, Tingpai, Jiarong, Banliang	78	U+005e U+006d U+0325
+^n	n	nam³, nok⁸	Jiaoli, Renli, Banliang, Pandong, Sanjiang, Tangnian, Zhonghe, Antang, Tangzhou, Tingpai, Dujiang, Sandong, Jiarong, Shuiwei, Juqian, Shuiyao	388	U+005e U+006e
+^n̥	n̥	n̥a³, n̥o¹	Shuiwei, Dujiang, Shuiyao, Sandong, Zhonghe, Antang, Tangzhou, Tingpai, Juqian, Jiarong, Tangnian, Banliang	71	U+005e U+006e U+0325
+^p	p	pjam¹, pi²	Banliang, Tangnian, Sanjiang, Dujiang, Tangzhou, Renli, Antang, Pandong, Sandong, Tingpai, Jiaoli, Zhonghe, Shuiwei, Jiarong, Juqian, Shuiyao	425	U+005e U+0070
+^pʰ	pʰ	pʰaːŋ³, pʰa¹	Banliang, Tangnian, Pandong, Jiaoli, Juqian, Antang, Renli, Sandong, Shuiwei, Tingpai, Sanjiang, Dujiang, Tangzhou, Jiarong, Zhonghe, Shuiyao	190	U+005e U+0070 U+02b0
+^q	q	qa¹, qaːi⁵	Shuiwei, Juqian, Shuiyao, Jiarong, Banliang, Tangnian, Sanjiang, Dujiang, Renli, Pandong, Tangzhou, Sandong, Zhonghe, Jiaoli, Tingpai, Antang	395	U+005e U+0071
+^qʰ	qʰ	qʰan¹, qʰaːt⁷	Juqian, Shuiwei, Shuiyao, Banliang, Jiarong, Tangnian, Tangzhou, Sanjiang, Dujiang, Zhonghe, Antang, Renli, Pandong, Sandong, Tingpai, Jiaoli	94	U+005e U+0071 U+02b0
+^s	s	sən¹, sui³	Juqian, Zhonghe, Shuiyao, Sandong, Tangnian, Antang, Shuiwei, Jiarong, Tangzhou, Sanjiang, Dujiang, Renli, Tingpai, Jiaoli, Banliang, Pandong	337	U+005e U+0073
 ^sw	s w	swaːt⁷	Renli	1	U+005e U+0073 U+0077
+^t	t	ti³, tok⁷	Banliang, Shuiwei, Jiarong, Juqian, Jiaoli, Tangnian, Tangzhou, Sandong, Pandong, Dujiang, Zhonghe, Antang, Tingpai, Sanjiang, Renli, Shuiyao	835	U+005e U+0074
+^ts	ts	tsuŋ¹, tsam²	Juqian, Shuiyao, Jiarong, Tangzhou, Sandong, Zhonghe, Antang, Tingpai, Shuiwei, Renli, Jiaoli, Sanjiang, Dujiang, Banliang, Tangnian	272	U+005e U+0074 U+0073
+^tsʰ	tsʰ	tsʰə³, tsʰɿ⁴ kən³	Tangnian, Tingpai, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Shuiyao, Renli, Banliang, Jiaoli, Sandong, Jiarong	15	U+005e U+0074 U+0073 U+02b0
+^tʰ	tʰ	tʰau⁵, tʰaːu³	Banliang, Tangnian, Sanjiang, Juqian, Zhonghe, Antang, Sandong, Tingpai, Jiarong, Dujiang, Shuiwei, Tangzhou, Renli, Shuiyao, Pandong, Jiaoli	72	U+005e U+0074 U+02b0
+^v	v	va⁵, van¹	Juqian, Shuiyao, Jiaoli, Shuiwei, Renli, Tangnian, Tingpai, Sanjiang, Tangzhou, Sandong, Jiarong, Antang, Pandong, Dujiang, Zhonghe, Banliang	296	U+005e U+0076
+^w	w	waːi¹	Shuiyao	1	U+005e U+0077
+^x	x	xe¹, xən²	Jiarong, Juqian, Shuiwei, Tangnian, Shuiyao, Tangzhou	34	U+005e U+0078
+^z	z	zət⁷, zən¹	Tingpai, Zhonghe, Antang, Jiaoli, Sanjiang, Dujiang, Tangzhou, Renli, Tangnian, Juqian, Shuiyao, Sandong, Jiarong, Shuiwei, Banliang	72	U+005e U+007a
+^ŋ	ŋ	ŋo⁴, ŋaːn⁶	Tangnian, Banliang, Pandong, Sanjiang, Shuiyao, Renli, Jiaoli, Zhonghe, Antang, Tangzhou, Sandong, Tingpai, Dujiang, Jiarong, Shuiwei, Juqian	127	U+005e U+014b
+^ŋw	ŋ w	ŋwaːŋ⁶, ŋwa⁴	Tangnian, Shuiyao, Banliang, Pandong, Tingpai, Sanjiang, Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Jiarong	20	U+005e U+014b U+0077
+^ŋ̊	ŋ̊	ŋ̊aːn⁵, ŋ̊ai¹	Jiarong, Shuiwei, Juqian, Tangzhou, Dujiang, Zhonghe, Antang, Shuiyao, Sandong, Tangnian, Tingpai, Banliang	29	U+005e U+014b U+030a
+^ȵ	ȵ	ȵaːu⁶, ȵaːn¹	Jiaoli, Banliang, Pandong, Tangnian, Renli, Sanjiang, Sandong, Dujiang, Juqian, Tangzhou, Tingpai, Zhonghe, Shuiyao, Jiarong, Antang, Shuiwei	139	U+005e U+0235
+^ȵ̥	ȵ̥	ȵ̥u¹, ȵ̥u¹ ju¹	Tangzhou, Sandong, Tingpai, Dujiang, Zhonghe, Antang	9	U+005e U+0235 U+0325
+^ȶ	ȶ	ȶit⁸, ȶa⁵	Pandong, Banliang, Shuiwei, Tangnian, Dujiang, Tingpai, Antang, Sandong, Juqian, Sanjiang, Tangzhou, Renli, Jiaoli, Zhonghe, Jiarong, Shuiyao	322	U+005e U+0236
+^ȶʰ	ȶʰ	ȶʰin¹, ȶʰən³	Tangnian, Banliang, Juqian, Shuiwei, Tingpai, Tangzhou, Sandong, Jiarong, Zhonghe, Antang, Shuiyao	38	U+005e U+0236 U+02b0
+^ɕ	ɕ	ɕət⁷, ɕaŋ²	Zhonghe, Tangzhou, Shuiyao, Sandong, Juqian, Tingpai, Jiarong, Antang, Pandong, Shuiwei, Dujiang, Tangnian, Sanjiang, Renli, Jiaoli, Banliang	214	U+005e U+0255
+^ɣ	ɣ	ɣaːŋ⁵, ɣum⁴	Tangnian, Sanjiang, Dujiang, Banliang, Pandong, Jiarong, Renli, Shuiyao, Jiaoli, Shuiwei, Juqian, Sandong, Zhonghe, Tangzhou, Antang, Tingpai	216	U+005e U+0263
+^ɬ	ɬ	ɬo³	Jiarong	1	U+005e U+026c
+^ʁ	ʁ	ʁa¹, ʁaːi⁵	Juqian, Shuiyao, Shuiwei, Jiarong, Sanjiang, Dujiang, Zhonghe, Sandong, Antang, Tangzhou, Renli, Tingpai, Jiaoli, Banliang	64	U+005e U+0281
+^ʔ	ʔ	ʔnaŋ¹, ʔam⁵	Juqian, Shuiwei, Sandong, Zhonghe, Antang, Tingpai, Tangzhou, Jiarong, Shuiyao, Dujiang, Sanjiang, Renli, Tangnian, Banliang, Pandong, Jiaoli	1127	U+005e U+0294
+^ʔw	ʔ w	ʔwen⁵, ʔwaːŋ⁵	Dujiang, Juqian, Zhonghe, Antang, Shuiyao, Sandong, Tangzhou, Tingpai	14	U+005e U+0294 U+0077
+^ᵐb	ⁿb	ᵐbaːn¹, ᵐbiŋ¹	Renli, Sanjiang, Dujiang, Pandong, Shuiwei, Juqian, Jiarong, Sandong, Jiaoli, Zhonghe, Shuiyao, Tangnian, Tangzhou, Antang, Tingpai, Banliang	136	U+005e U+1d50 U+0062
+^ᵐi	ᵐ/m i	ᵐiŋ⁴	Jiarong	1	U+005e U+1d50 U+0069
+^ⁿd	ⁿd	ⁿdam¹, ⁿdaːŋ¹	Renli, Sanjiang, Jiaoli, Pandong, Dujiang, Sandong, Tingpai, Zhonghe, Antang, Tangzhou, Shuiyao, Tangnian, Jiarong, Juqian, Shuiwei, Banliang	361	U+005e U+207f U+0064
+^ⁿdw	ⁿd w	ⁿdwa¹	Sanjiang, Dujiang, Renli	3	U+005e U+207f U+0064 U+0077
+^ⁿj	ⁿj	ⁿjut⁷	Shuiyao	1	U+005e U+207f U+006a
+_	+				
+ᵐ	m
+_'$	NULL	pai⁶ ', pəi⁶ '	Antang, Tangzhou, Banliang	4	U+0027 U+0024
+_ᵐb	+ ⁿb	ʔu¹ ᵐbən¹, ᵐbu⁶ ᵐba³	Sanjiang, Dujiang, Pandong, Sandong, Renli	6	U+005f U+1d50
+a	a	va⁵, pjam¹	Tingpai, Pandong, Jiaoli, Shuiyao, Shuiwei, Banliang, Renli, Sanjiang, Juqian, Jiarong, Dujiang, Zhonghe, Tangnian, Sandong, Antang, Tangzhou	3265	U+0061
+ai	ai	automatically added
+au	au	automatically added
+ay	ay	automatically added
+aɪ	aɪ	automatically added
+aː	aː	laːk⁸ mbaːn¹, vaːŋ¹	Sandong, Juqian, Zhonghe, Renli, Tangnian, Shuiwei, Shuiyao, Dujiang, Sanjiang, Jiarong, Banliang, Tangzhou, Tingpai, Antang, Pandong, Jiaoli	2094	U+0061 U+02d0
+aːi	aːi	automatically added
+aːu	aːu	automatically added
+aːy	aːy	automatically added
+aːɪ	aːɪ	automatically added
+ãĩ	ãi	automatically added
+ãũ	ãu	automatically added
+ãỹ	ãy	automatically added
+ãɪ̃	ãɪ	automatically added
+a̱i	a̱i	automatically added
+a̱u	a̱u	automatically added
+a̱y	a̱y	automatically added
+a̱ɪ	a̱ɪ	automatically added
+a̱ːi	a̱ːi	automatically added
+a̱ːu	a̱ːu	automatically added
+a̱ːy	a̱ːy	automatically added
+a̱ːɪ	a̱ːɪ	automatically added
+ã̱ĩ	ã̱i	automatically added
+ã̱ũ	ã̱u	automatically added
+ã̱ỹ	ã̱y	automatically added
+ã̱ɪ̃	ã̱ɪ	automatically added
+b	b	ʔbin³, laːk⁸ mbaːn¹	Shuiwei, Jiarong, Zhonghe, Sandong, Juqian, Shuiyao, Tingpai, Antang, Sanjiang, Dujiang, Renli, Pandong, Jiaoli, Tangnian, Tangzhou	164	U+0062
+d	d	ʔdjup⁷, ʔdoŋ³	Juqian, Antang, Shuiyao, Shuiwei, Jiarong, Tingpai, Tangzhou, Zhonghe, Sandong, Pandong, Jiaoli, Dujiang, Sanjiang, Tangnian	238	U+0064
+dw	d w	ʔdwa¹, haːi⁴ ʔdwa¹	Sandong, Zhonghe, Dujiang, Renli, Sanjiang	7	U+0064 U+0077
+e	e	pek⁷, le¹	Antang, Jiaoli, Shuiwei, Juqian, Jiarong, Zhonghe, Shuiyao, Sanjiang, Sandong, Dujiang, Tangnian, Renli, Tangzhou, Banliang, Pandong, Tingpai	779	U+0065
+ei	ei	automatically added
+eu	eu	automatically added
+ey	ey	automatically added
+eɪ	eɪ	automatically added
+eː	eː	ʔjeːn¹, ɕeːu³	Shuiyao, Dujiang, Tangzhou, Banliang	12	U+0065 U+02d0
+eːi	eːi	automatically added
+eːu	eːu	automatically added
+eːy	eːy	automatically added
+eːɪ	eːɪ	automatically added
+ẽĩ	ẽi	automatically added
+ẽũ	ẽu	automatically added
+ẽỹ	ẽy	automatically added
+ẽɪ̃	ẽɪ	automatically added
+f	f	mai⁴ fuŋ³, ʔau⁴ fjaːŋ³	Antang, Tangzhou, Tingpai, Zhonghe, Jiaoli, Dujiang, Jiarong, Sandong, Shuiwei, Sanjiang, Tangnian, Renli, Banliang	31	U+0066
+h	h	te³ haːk⁷, laːk⁸ haːu⁴	Pandong, Sanjiang, Renli, Dujiang, Antang, Tangnian, Banliang, Tingpai, Jiaoli, Shuiwei, Zhonghe, Tangzhou, Sandong, Juqian, Shuiyao, Jiarong	84	U+0068
+hw	h w	na³ hwaːn³	Pandong	1	U+0068 U+0077
+i	i	ti³, ȶit⁸	Pandong, Jiaoli, Antang, Tingpai, Tangzhou, Tangnian, Shuiyao, Sandong, Renli, Sanjiang, Zhonghe, Jiarong, Banliang, Juqian, Dujiang, Shuiwei	2306	U+0069
+iai	j ai	automatically added
+iau	j au	automatically added
+iay	j ay	automatically added
+iaɪ	j aɪ	automatically added
+iaːi	j aːi	automatically added
+iaːu	j aːu	automatically added
+iaːy	j aːy	automatically added
+iaːɪ	j aːɪ	automatically added
+iãĩ	j ãi	automatically added
+iãũ	j ãu	automatically added
+iãỹ	j ãy	automatically added
+iãɪ̃	j ãɪ	automatically added
+ia̱i	j a̱i	automatically added
+ia̱u	j a̱u	automatically added
+ia̱y	j a̱y	automatically added
+ia̱ɪ	j a̱ɪ	automatically added
+ia̱ːi	j a̱ːi	automatically added
+ia̱ːu	j a̱ːu	automatically added
+ia̱ːy	j a̱ːy	automatically added
+ia̱ːɪ	j a̱ːɪ	automatically added
+iã̱ĩ	j ã̱i	automatically added
+iã̱ũ	j ã̱u	automatically added
+iã̱ỹ	j ã̱y	automatically added
+iã̱ɪ̃	j ã̱ɪ	automatically added
+iei	j ei	automatically added
+ieu	j eu	automatically added
+iey	j ey	automatically added
+ieɪ	j eɪ	automatically added
+ieːi	j eːi	automatically added
+ieːu	j eːu	automatically added
+ieːy	j eːy	automatically added
+ieːɪ	j eːɪ	automatically added
+iẽĩ	j ẽi	automatically added
+iẽũ	j ẽu	automatically added
+iẽỹ	j ẽy	automatically added
+iẽɪ̃	j ẽɪ	automatically added
+ioi	j oi	automatically added
+iou	j ou	automatically added
+ioy	j oy	automatically added
+ioɪ	j oɪ	automatically added
+ioːi	j oːi	automatically added
+ioːu	j oːu	automatically added
+ioːy	j oːy	automatically added
+ioːɪ	j oːɪ	automatically added
+iõĩ	j õi	automatically added
+iõũ	j õu	automatically added
+iõỹ	j õy	automatically added
+iõɪ̃	j õɪ	automatically added
+iăi	j ăi	automatically added
+iău	j ău	automatically added
+iăy	j ăy	automatically added
+iăɪ	j ăɪ	automatically added
+iăːi	j ăːi	automatically added
+iăːu	j ăːu	automatically added
+iăːy	j ăːy	automatically added
+iăːɪ	j ăːɪ	automatically added
+iẵĩ	j ẵi	automatically added
+iẵũ	j ẵu	automatically added
+iẵỹ	j ẵy	automatically added
+iẵɪ̃	j ẵɪ	automatically added
+iɐi	j ɐi	automatically added
+iɐu	j ɐu	automatically added
+iɐy	j ɐy	automatically added
+iɐɪ	j ɐɪ	automatically added
+iɐːi	j ɐːi	automatically added
+iɐːu	j ɐːu	automatically added
+iɐːy	j ɐːy	automatically added
+iɐːɪ	j ɐːɪ	automatically added
+iɐ̃ĩ	j ɐ̃i	automatically added
+iɐ̃ũ	j ɐ̃u	automatically added
+iɐ̃ỹ	j ɐ̃y	automatically added
+iɐ̃ɪ̃	j ɐ̃ɪ	automatically added
+iɑi	j ɑi	automatically added
+iɑu	j ɑu	automatically added
+iɑy	j ɑy	automatically added
+iɑɪ	j ɑɪ	automatically added
+iɑːi	j ɑːi	automatically added
+iɑːu	j ɑːu	automatically added
+iɑːy	j ɑːy	automatically added
+iɑːɪ	j ɑːɪ	automatically added
+iɑ̃ĩ	j ɑ̃i	automatically added
+iɑ̃ũ	j ɑ̃u	automatically added
+iɑ̃ỹ	j ɑ̃y	automatically added
+iɑ̃ɪ̃	j ɑ̃ɪ	automatically added
+iɔi	j ɔi	automatically added
+iɔu	j ɔu	automatically added
+iɔy	j ɔy	automatically added
+iɔɪ	j ɔɪ	automatically added
+iɔːi	j ɔːi	automatically added
+iɔːu	j ɔːu	automatically added
+iɔːy	j ɔːy	automatically added
+iɔːɪ	j ɔːɪ	automatically added
+iɔ̃ĩ	j ɔ̃i	automatically added
+iɔ̃ũ	j ɔ̃u	automatically added
+iɔ̃ỹ	j ɔ̃y	automatically added
+iɔ̃ɪ̃	j ɔ̃ɪ	automatically added
+iəi	j əi	automatically added
+iəu	j əu	automatically added
+iəy	j əy	automatically added
+iəɪ	j əɪ	automatically added
+iəːi	j əːi	automatically added
+iəːu	j əːu	automatically added
+iəːy	j əːy	automatically added
+iəːɪ	j əːɪ	automatically added
+iə̃ĩ	j ə̃i	automatically added
+iə̃ũ	j ə̃u	automatically added
+iə̃ỹ	j ə̃y	automatically added
+iə̃ɪ̃	j ə̃ɪ	automatically added
+iɛi	j ɛi	automatically added
+iɛu	j ɛu	automatically added
+iɛy	j ɛy	automatically added
+iɛɪ	j ɛɪ	automatically added
+iɛːi	j ɛːi	automatically added
+iɛːu	j ɛːu	automatically added
+iɛːy	j ɛːy	automatically added
+iɛːɪ	j ɛːɪ	automatically added
+iɛ̃ĩ	j ɛ̃i	automatically added
+iɛ̃ũ	j ɛ̃u	automatically added
+iɛ̃ỹ	j ɛ̃y	automatically added
+iɛ̃ɪ̃	j ɛ̃ɪ	automatically added
+iɤi	j ɤi	automatically added
+iɤu	j ɤu	automatically added
+iɤy	j ɤy	automatically added
+iɤɪ	j ɤɪ	automatically added
+iɤːi	j ɤːi	automatically added
+iɤːu	j ɤːu	automatically added
+iɤːy	j ɤːy	automatically added
+iɤːɪ	j ɤːɪ	automatically added
+iɤ̃ĩ	j ɤ̃i	automatically added
+iɤ̃ũ	j ɤ̃u	automatically added
+iɤ̃ỹ	j ɤ̃y	automatically added
+iɤ̃ɪ̃	j ɤ̃ɪ	automatically added
+iɨi	j ɨi	automatically added
+iɨu	j ɨu	automatically added
+iɨy	j ɨy	automatically added
+iɨɪ	j ɨɪ	automatically added
+iɨːi	j ɨːi	automatically added
+iɨːu	j ɨːu	automatically added
+iɨːy	j ɨːy	automatically added
+iɨːɪ	j ɨːɪ	automatically added
+iɨ̃ĩ	j ɨ̃i	automatically added
+iɨ̃ũ	j ɨ̃u	automatically added
+iɨ̃ỹ	j ɨ̃y	automatically added
+iɨ̃ɪ̃	j ɨ̃ɪ	automatically added
+iɪi	j ɪi	automatically added
+iɪu	j ɪu	automatically added
+iɪy	j ɪy	automatically added
+iɪɪ	j ɪɪ	automatically added
+iɪːi	j ɪːi	automatically added
+iɪːu	j ɪːu	automatically added
+iɪːy	j ɪːy	automatically added
+iɪːɪ	j ɪːɪ	automatically added
+iɪ̃ĩ	j ɪ̃i	automatically added
+iɪ̃ũ	j ɪ̃u	automatically added
+iɪ̃ỹ	j ɪ̃y	automatically added
+iɪ̃ɪ̃	j ɪ̃ɪ	automatically added
+iɯi	j ɯi	automatically added
+iɯu	j ɯu	automatically added
+iɯy	j ɯy	automatically added
+iɯɪ	j ɯɪ	automatically added
+iɯːi	j ɯːi	automatically added
+iɯːu	j ɯːu	automatically added
+iɯːy	j ɯːy	automatically added
+iɯːɪ	j ɯːɪ	automatically added
+iɯ̃ĩ	j ɯ̃i	automatically added
+iɯ̃ũ	j ɯ̃u	automatically added
+iɯ̃ỹ	j ɯ̃y	automatically added
+iɯ̃ɪ̃	j ɯ̃ɪ	automatically added
+j	j	pjam¹, ljok⁸	Dujiang, Sanjiang, Juqian, Renli, Shuiwei, Sandong, Jiarong, Zhonghe, Tangzhou, Tangnian, Jiaoli, Shuiyao, Banliang, Pandong, Antang, Tingpai	1530	U+006a
+k	k	laːk⁷, pek⁷	Pandong, Zhonghe, Tangnian, Shuiyao, Dujiang, Antang, Tangzhou, Banliang, Renli, Sandong, Sanjiang, Tingpai, Jiarong, Juqian, Shuiwei, Jiaoli	986	U+006b
+kw	kʷ	lu⁵ kwa¹, tu³ kwen⁵	Tangnian, Shuiyao, Banliang, Shuiwei	7	U+006b U+0077
+kʰ	kʰ	laːk⁷ kʰət⁷, tu³ kʰup⁷	Banliang, Sanjiang, Renli, Dujiang, Shuiwei, Zhonghe, Antang, Tangzhou, Jiaoli, Sandong, Juqian, Pandong, Tangnian, Tingpai, Jiarong	29	U+006b U+02b0
+l	l	ʔo³ ljok⁷, m̥u⁵ laːi⁵	Tingpai, Jiaoli, Tangzhou, Renli, Banliang, Pandong, Sanjiang, Dujiang, Antang, Sandong, Zhonghe, Tangnian, Shuiwei, Juqian, Jiarong, Shuiyao	109	U+006c
+m	m	pjam¹, ⁿdam¹	Tangzhou, Dujiang, Shuiwei, Zhonghe, Sandong, Tingpai, Juqian, Antang, Jiaoli, Tangnian, Sanjiang, Shuiyao, Renli, Banliang, Jiarong, Pandong	1210	U+006d
+n	n	van¹, ʔnaŋ¹	Zhonghe, Tingpai, Antang, Sandong, Juqian, Shuiwei, Tangzhou, Jiarong, Dujiang, Banliang, Shuiyao, Tangnian, Pandong, Sanjiang, Renli, Jiaoli	1834	U+006e
+n̥	n̥	tsən¹ n̥aːŋ³, ɕam³ n̥a³	Banliang, Zhonghe, Tangzhou, Sandong, Dujiang, Juqian, Shuiyao, Shuiwei, Tangnian, Tingpai	23	U+006e U+0325
+o	o	ho³, tok⁷	Jiarong, Juqian, Shuiwei, Sanjiang, Shuiyao, Jiaoli, Tangzhou, Pandong, Zhonghe, Antang, Banliang, Sandong, Dujiang, Tangnian, Tingpai, Renli	865	U+006f
+oi	oi	automatically added
+ou	ou	automatically added
+oy	oy	automatically added
+oɪ	oɪ	automatically added
+oːi	oːi	automatically added
+oːu	oːu	automatically added
+oːy	oːy	automatically added
+oːɪ	oːɪ	automatically added
+õĩ	õi	automatically added
+õũ	õu	automatically added
+õỹ	õy	automatically added
+õɪ̃	õɪ	automatically added
+p	p	tip⁷, taːp⁷	Sanjiang, Renli, Tangnian, Pandong, Banliang, Jiaoli, Juqian, Sandong, Jiarong, Shuiwei, Antang, Zhonghe, Tangzhou, Shuiyao, Dujiang, Tingpai	514	U+0070
+pʰ	pʰ	ma¹ pʰau³ sai¹, ku³ pʰje¹	Pandong, Zhonghe	2	U+0070 U+02b0
+q	q	ʔma¹ qaːt⁷, ʁaːŋ⁵ qaːi⁵	Sanjiang, Banliang, Pandong, Tangnian, Zhonghe, Antang, Tangzhou, Renli, Jiaoli, Sandong, Tingpai, Dujiang, Juqian, Shuiwei, Shuiyao, Jiarong	44	U+0071
+qʰ	qʰ	laːk⁸ qʰaːn¹, ʔma¹ qʰum⁵	Shuiwei, Juqian, Jiarong	4	U+0071 U+02b0
+s	s	ȶən¹ saːu¹, vjan¹ saːn²	Juqian, Shuiwei, Sanjiang, Tangnian, Shuiyao, Banliang, Sandong, Jiaoli, Dujiang, Zhonghe, Antang, Tangzhou, Renli, Pandong, Jiarong, Tingpai	28	U+0073
+t	t	ȶit⁸, ɕət⁷	Tingpai, Tangzhou, Banliang, Jiaoli, Sandong, Shuiwei, Juqian, Tangnian, Zhonghe, Antang, Shuiyao, Renli, Dujiang, Pandong, Jiarong, Sanjiang	840	U+0074
+ts	ts	naːu⁵ tsau⁶, tə³ tsjaːŋ²	Jiarong, Juqian, Jiaoli, Sanjiang, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Tingpai	18	U+0074 U+0073
+tsʰ	tsʰ	ʔma¹ po³ tsʰaːi¹, ma¹ po³ tsʰaːi¹	Jiaoli, Sanjiang, Juqian, Zhonghe, Tangzhou, Shuiyao, Renli, Sandong	9	U+0074 U+0073 U+02b0
+tʰ	tʰ	ᵐbi⁵ tʰjau⁴ kən³, tu³ tʰəːt⁸	Pandong, Jiaoli	2	U+0074 U+02b0
+u	u	kʰuŋ³, kuŋ²	Pandong, Tingpai, Jiaoli, Antang, Banliang, Renli, Tangnian, Tangzhou, Sandong, Sanjiang, Zhonghe, Dujiang, Juqian, Shuiwei, Jiarong, Shuiyao	2446	U+0075
+uai	w ai	automatically added
+uau	w au	automatically added
+uay	w ay	automatically added
+uaɪ	w aɪ	automatically added
+uaːi	w aːi	automatically added
+uaːu	w aːu	automatically added
+uaːy	w aːy	automatically added
+uaːɪ	w aːɪ	automatically added
+uãĩ	w ãi	automatically added
+uãũ	w ãu	automatically added
+uãỹ	w ãy	automatically added
+uãɪ̃	w ãɪ	automatically added
+ua̱i	w a̱i	automatically added
+ua̱u	w a̱u	automatically added
+ua̱y	w a̱y	automatically added
+ua̱ɪ	w a̱ɪ	automatically added
+ua̱ːi	w a̱ːi	automatically added
+ua̱ːu	w a̱ːu	automatically added
+ua̱ːy	w a̱ːy	automatically added
+ua̱ːɪ	w a̱ːɪ	automatically added
+uã̱ĩ	w ã̱i	automatically added
+uã̱ũ	w ã̱u	automatically added
+uã̱ỹ	w ã̱y	automatically added
+uã̱ɪ̃	w ã̱ɪ	automatically added
+uei	w ei	automatically added
+ueu	w eu	automatically added
+uey	w ey	automatically added
+ueɪ	w eɪ	automatically added
+ueːi	w eːi	automatically added
+ueːu	w eːu	automatically added
+ueːy	w eːy	automatically added
+ueːɪ	w eːɪ	automatically added
+uẽĩ	w ẽi	automatically added
+uẽũ	w ẽu	automatically added
+uẽỹ	w ẽy	automatically added
+uẽɪ̃	w ẽɪ	automatically added
+uoi	w oi	automatically added
+uou	w ou	automatically added
+uoy	w oy	automatically added
+uoɪ	w oɪ	automatically added
+uoːi	w oːi	automatically added
+uoːu	w oːu	automatically added
+uoːy	w oːy	automatically added
+uoːɪ	w oːɪ	automatically added
+uõĩ	w õi	automatically added
+uõũ	w õu	automatically added
+uõỹ	w õy	automatically added
+uõɪ̃	w õɪ	automatically added
+uăi	w ăi	automatically added
+uău	w ău	automatically added
+uăy	w ăy	automatically added
+uăɪ	w ăɪ	automatically added
+uăːi	w ăːi	automatically added
+uăːu	w ăːu	automatically added
+uăːy	w ăːy	automatically added
+uăːɪ	w ăːɪ	automatically added
+uẵĩ	w ẵi	automatically added
+uẵũ	w ẵu	automatically added
+uẵỹ	w ẵy	automatically added
+uẵɪ̃	w ẵɪ	automatically added
+uɐi	w ɐi	automatically added
+uɐu	w ɐu	automatically added
+uɐy	w ɐy	automatically added
+uɐɪ	w ɐɪ	automatically added
+uɐːi	w ɐːi	automatically added
+uɐːu	w ɐːu	automatically added
+uɐːy	w ɐːy	automatically added
+uɐːɪ	w ɐːɪ	automatically added
+uɐ̃ĩ	w ɐ̃i	automatically added
+uɐ̃ũ	w ɐ̃u	automatically added
+uɐ̃ỹ	w ɐ̃y	automatically added
+uɐ̃ɪ̃	w ɐ̃ɪ	automatically added
+uɑi	w ɑi	automatically added
+uɑu	w ɑu	automatically added
+uɑy	w ɑy	automatically added
+uɑɪ	w ɑɪ	automatically added
+uɑːi	w ɑːi	automatically added
+uɑːu	w ɑːu	automatically added
+uɑːy	w ɑːy	automatically added
+uɑːɪ	w ɑːɪ	automatically added
+uɑ̃ĩ	w ɑ̃i	automatically added
+uɑ̃ũ	w ɑ̃u	automatically added
+uɑ̃ỹ	w ɑ̃y	automatically added
+uɑ̃ɪ̃	w ɑ̃ɪ	automatically added
+uɔi	w ɔi	automatically added
+uɔu	w ɔu	automatically added
+uɔy	w ɔy	automatically added
+uɔɪ	w ɔɪ	automatically added
+uɔːi	w ɔːi	automatically added
+uɔːu	w ɔːu	automatically added
+uɔːy	w ɔːy	automatically added
+uɔːɪ	w ɔːɪ	automatically added
+uɔ̃ĩ	w ɔ̃i	automatically added
+uɔ̃ũ	w ɔ̃u	automatically added
+uɔ̃ỹ	w ɔ̃y	automatically added
+uɔ̃ɪ̃	w ɔ̃ɪ	automatically added
+uəi	w əi	automatically added
+uəu	w əu	automatically added
+uəy	w əy	automatically added
+uəɪ	w əɪ	automatically added
+uəːi	w əːi	automatically added
+uəːu	w əːu	automatically added
+uəːy	w əːy	automatically added
+uəːɪ	w əːɪ	automatically added
+uə̃ĩ	w ə̃i	automatically added
+uə̃ũ	w ə̃u	automatically added
+uə̃ỹ	w ə̃y	automatically added
+uə̃ɪ̃	w ə̃ɪ	automatically added
+uɛi	w ɛi	automatically added
+uɛu	w ɛu	automatically added
+uɛy	w ɛy	automatically added
+uɛɪ	w ɛɪ	automatically added
+uɛːi	w ɛːi	automatically added
+uɛːu	w ɛːu	automatically added
+uɛːy	w ɛːy	automatically added
+uɛːɪ	w ɛːɪ	automatically added
+uɛ̃ĩ	w ɛ̃i	automatically added
+uɛ̃ũ	w ɛ̃u	automatically added
+uɛ̃ỹ	w ɛ̃y	automatically added
+uɛ̃ɪ̃	w ɛ̃ɪ	automatically added
+uɤi	w ɤi	automatically added
+uɤu	w ɤu	automatically added
+uɤy	w ɤy	automatically added
+uɤɪ	w ɤɪ	automatically added
+uɤːi	w ɤːi	automatically added
+uɤːu	w ɤːu	automatically added
+uɤːy	w ɤːy	automatically added
+uɤːɪ	w ɤːɪ	automatically added
+uɤ̃ĩ	w ɤ̃i	automatically added
+uɤ̃ũ	w ɤ̃u	automatically added
+uɤ̃ỹ	w ɤ̃y	automatically added
+uɤ̃ɪ̃	w ɤ̃ɪ	automatically added
+uɨi	w ɨi	automatically added
+uɨu	w ɨu	automatically added
+uɨy	w ɨy	automatically added
+uɨɪ	w ɨɪ	automatically added
+uɨːi	w ɨːi	automatically added
+uɨːu	w ɨːu	automatically added
+uɨːy	w ɨːy	automatically added
+uɨːɪ	w ɨːɪ	automatically added
+uɨ̃ĩ	w ɨ̃i	automatically added
+uɨ̃ũ	w ɨ̃u	automatically added
+uɨ̃ỹ	w ɨ̃y	automatically added
+uɨ̃ɪ̃	w ɨ̃ɪ	automatically added
+uɪi	w ɪi	automatically added
+uɪu	w ɪu	automatically added
+uɪy	w ɪy	automatically added
+uɪɪ	w ɪɪ	automatically added
+uɪːi	w ɪːi	automatically added
+uɪːu	w ɪːu	automatically added
+uɪːy	w ɪːy	automatically added
+uɪːɪ	w ɪːɪ	automatically added
+uɪ̃ĩ	w ɪ̃i	automatically added
+uɪ̃ũ	w ɪ̃u	automatically added
+uɪ̃ỹ	w ɪ̃y	automatically added
+uɪ̃ɪ̃	w ɪ̃ɪ	automatically added
+uɯi	w ɯi	automatically added
+uɯu	w ɯu	automatically added
+uɯy	w ɯy	automatically added
+uɯɪ	w ɯɪ	automatically added
+uɯːi	w ɯːi	automatically added
+uɯːu	w ɯːu	automatically added
+uɯːy	w ɯːy	automatically added
+uɯːɪ	w ɯːɪ	automatically added
+uɯ̃ĩ	w ɯ̃i	automatically added
+uɯ̃ũ	w ɯ̃u	automatically added
+uɯ̃ỹ	w ɯ̃y	automatically added
+uɯ̃ɪ̃	w ɯ̃ɪ	automatically added
+uː	uː	puːt⁷, juːt⁷	Dujiang, Zhonghe, Tingpai, Banliang	21	U+0075 U+02d0
+v	v	ʔda¹ van¹, vu⁴ vat⁷	Pandong, Jiaoli, Zhonghe, Antang, Tangnian, Dujiang, Juqian, Tangzhou, Shuiyao, Renli, Banliang, Sandong, Shuiwei, Tingpai, Jiarong	25	U+0076
+w	w	la¹ wan¹	Sanjiang, Dujiang	2	U+0077
+x	x	ʔdaːk⁷ xət⁷	Shuiwei, Juqian, Jiarong	3	U+0078
+yai	ɥ ai	automatically added
+yau	ɥ au	automatically added
+yay	ɥ ay	automatically added
+yaɪ	ɥ aɪ	automatically added
+yaːi	ɥ aːi	automatically added
+yaːu	ɥ aːu	automatically added
+yaːy	ɥ aːy	automatically added
+yaːɪ	ɥ aːɪ	automatically added
+yãĩ	ɥ ãi	automatically added
+yãũ	ɥ ãu	automatically added
+yãỹ	ɥ ãy	automatically added
+yãɪ̃	ɥ ãɪ	automatically added
+ya̱i	ɥ a̱i	automatically added
+ya̱u	ɥ a̱u	automatically added
+ya̱y	ɥ a̱y	automatically added
+ya̱ɪ	ɥ a̱ɪ	automatically added
+ya̱ːi	ɥ a̱ːi	automatically added
+ya̱ːu	ɥ a̱ːu	automatically added
+ya̱ːy	ɥ a̱ːy	automatically added
+ya̱ːɪ	ɥ a̱ːɪ	automatically added
+yã̱ĩ	ɥ ã̱i	automatically added
+yã̱ũ	ɥ ã̱u	automatically added
+yã̱ỹ	ɥ ã̱y	automatically added
+yã̱ɪ̃	ɥ ã̱ɪ	automatically added
+yei	ɥ ei	automatically added
+yeu	ɥ eu	automatically added
+yey	ɥ ey	automatically added
+yeɪ	ɥ eɪ	automatically added
+yeːi	ɥ eːi	automatically added
+yeːu	ɥ eːu	automatically added
+yeːy	ɥ eːy	automatically added
+yeːɪ	ɥ eːɪ	automatically added
+yẽĩ	ɥ ẽi	automatically added
+yẽũ	ɥ ẽu	automatically added
+yẽỹ	ɥ ẽy	automatically added
+yẽɪ̃	ɥ ẽɪ	automatically added
+yoi	ɥ oi	automatically added
+you	ɥ ou	automatically added
+yoy	ɥ oy	automatically added
+yoɪ	ɥ oɪ	automatically added
+yoːi	ɥ oːi	automatically added
+yoːu	ɥ oːu	automatically added
+yoːy	ɥ oːy	automatically added
+yoːɪ	ɥ oːɪ	automatically added
+yõĩ	ɥ õi	automatically added
+yõũ	ɥ õu	automatically added
+yõỹ	ɥ õy	automatically added
+yõɪ̃	ɥ õɪ	automatically added
+yăi	ɥ ăi	automatically added
+yău	ɥ ău	automatically added
+yăy	ɥ ăy	automatically added
+yăɪ	ɥ ăɪ	automatically added
+yăːi	ɥ ăːi	automatically added
+yăːu	ɥ ăːu	automatically added
+yăːy	ɥ ăːy	automatically added
+yăːɪ	ɥ ăːɪ	automatically added
+yẵĩ	ɥ ẵi	automatically added
+yẵũ	ɥ ẵu	automatically added
+yẵỹ	ɥ ẵy	automatically added
+yẵɪ̃	ɥ ẵɪ	automatically added
+yɐi	ɥ ɐi	automatically added
+yɐu	ɥ ɐu	automatically added
+yɐy	ɥ ɐy	automatically added
+yɐɪ	ɥ ɐɪ	automatically added
+yɐːi	ɥ ɐːi	automatically added
+yɐːu	ɥ ɐːu	automatically added
+yɐːy	ɥ ɐːy	automatically added
+yɐːɪ	ɥ ɐːɪ	automatically added
+yɐ̃ĩ	ɥ ɐ̃i	automatically added
+yɐ̃ũ	ɥ ɐ̃u	automatically added
+yɐ̃ỹ	ɥ ɐ̃y	automatically added
+yɐ̃ɪ̃	ɥ ɐ̃ɪ	automatically added
+yɑi	ɥ ɑi	automatically added
+yɑu	ɥ ɑu	automatically added
+yɑy	ɥ ɑy	automatically added
+yɑɪ	ɥ ɑɪ	automatically added
+yɑːi	ɥ ɑːi	automatically added
+yɑːu	ɥ ɑːu	automatically added
+yɑːy	ɥ ɑːy	automatically added
+yɑːɪ	ɥ ɑːɪ	automatically added
+yɑ̃ĩ	ɥ ɑ̃i	automatically added
+yɑ̃ũ	ɥ ɑ̃u	automatically added
+yɑ̃ỹ	ɥ ɑ̃y	automatically added
+yɑ̃ɪ̃	ɥ ɑ̃ɪ	automatically added
+yɔi	ɥ ɔi	automatically added
+yɔu	ɥ ɔu	automatically added
+yɔy	ɥ ɔy	automatically added
+yɔɪ	ɥ ɔɪ	automatically added
+yɔːi	ɥ ɔːi	automatically added
+yɔːu	ɥ ɔːu	automatically added
+yɔːy	ɥ ɔːy	automatically added
+yɔːɪ	ɥ ɔːɪ	automatically added
+yɔ̃ĩ	ɥ ɔ̃i	automatically added
+yɔ̃ũ	ɥ ɔ̃u	automatically added
+yɔ̃ỹ	ɥ ɔ̃y	automatically added
+yɔ̃ɪ̃	ɥ ɔ̃ɪ	automatically added
+yəi	ɥ əi	automatically added
+yəu	ɥ əu	automatically added
+yəy	ɥ əy	automatically added
+yəɪ	ɥ əɪ	automatically added
+yəːi	ɥ əːi	automatically added
+yəːu	ɥ əːu	automatically added
+yəːy	ɥ əːy	automatically added
+yəːɪ	ɥ əːɪ	automatically added
+yə̃ĩ	ɥ ə̃i	automatically added
+yə̃ũ	ɥ ə̃u	automatically added
+yə̃ỹ	ɥ ə̃y	automatically added
+yə̃ɪ̃	ɥ ə̃ɪ	automatically added
+yɛi	ɥ ɛi	automatically added
+yɛu	ɥ ɛu	automatically added
+yɛy	ɥ ɛy	automatically added
+yɛɪ	ɥ ɛɪ	automatically added
+yɛːi	ɥ ɛːi	automatically added
+yɛːu	ɥ ɛːu	automatically added
+yɛːy	ɥ ɛːy	automatically added
+yɛːɪ	ɥ ɛːɪ	automatically added
+yɛ̃ĩ	ɥ ɛ̃i	automatically added
+yɛ̃ũ	ɥ ɛ̃u	automatically added
+yɛ̃ỹ	ɥ ɛ̃y	automatically added
+yɛ̃ɪ̃	ɥ ɛ̃ɪ	automatically added
+yɤi	ɥ ɤi	automatically added
+yɤu	ɥ ɤu	automatically added
+yɤy	ɥ ɤy	automatically added
+yɤɪ	ɥ ɤɪ	automatically added
+yɤːi	ɥ ɤːi	automatically added
+yɤːu	ɥ ɤːu	automatically added
+yɤːy	ɥ ɤːy	automatically added
+yɤːɪ	ɥ ɤːɪ	automatically added
+yɤ̃ĩ	ɥ ɤ̃i	automatically added
+yɤ̃ũ	ɥ ɤ̃u	automatically added
+yɤ̃ỹ	ɥ ɤ̃y	automatically added
+yɤ̃ɪ̃	ɥ ɤ̃ɪ	automatically added
+yɨi	ɥ ɨi	automatically added
+yɨu	ɥ ɨu	automatically added
+yɨy	ɥ ɨy	automatically added
+yɨɪ	ɥ ɨɪ	automatically added
+yɨːi	ɥ ɨːi	automatically added
+yɨːu	ɥ ɨːu	automatically added
+yɨːy	ɥ ɨːy	automatically added
+yɨːɪ	ɥ ɨːɪ	automatically added
+yɨ̃ĩ	ɥ ɨ̃i	automatically added
+yɨ̃ũ	ɥ ɨ̃u	automatically added
+yɨ̃ỹ	ɥ ɨ̃y	automatically added
+yɨ̃ɪ̃	ɥ ɨ̃ɪ	automatically added
+yɪi	ɥ ɪi	automatically added
+yɪu	ɥ ɪu	automatically added
+yɪy	ɥ ɪy	automatically added
+yɪɪ	ɥ ɪɪ	automatically added
+yɪːi	ɥ ɪːi	automatically added
+yɪːu	ɥ ɪːu	automatically added
+yɪːy	ɥ ɪːy	automatically added
+yɪːɪ	ɥ ɪːɪ	automatically added
+yɪ̃ĩ	ɥ ɪ̃i	automatically added
+yɪ̃ũ	ɥ ɪ̃u	automatically added
+yɪ̃ỹ	ɥ ɪ̃y	automatically added
+yɪ̃ɪ̃	ɥ ɪ̃ɪ	automatically added
+yɯi	ɥ ɯi	automatically added
+yɯu	ɥ ɯu	automatically added
+yɯy	ɥ ɯy	automatically added
+yɯɪ	ɥ ɯɪ	automatically added
+yɯːi	ɥ ɯːi	automatically added
+yɯːu	ɥ ɯːu	automatically added
+yɯːy	ɥ ɯːy	automatically added
+yɯːɪ	ɥ ɯːɪ	automatically added
+yɯ̃ĩ	ɥ ɯ̃i	automatically added
+yɯ̃ũ	ɥ ɯ̃u	automatically added
+yɯ̃ỹ	ɥ ɯ̃y	automatically added
+yɯ̃ɪ̃	ɥ ɯ̃ɪ	automatically added
+z	z	ʔma¹ zui¹, ma¹ zui¹	Tangnian, Shuiyao, Sanjiang, Dujiang, Juqian, Zhonghe, Antang, Tangzhou, Renli, Banliang, Pandong, Sandong, Shuiwei, Tingpai, Jiarong	17	U+007a
+²	²/¹	pi² mai⁴, ɣui² tin¹	Pandong, Jiaoli, Tangnian, Banliang, Dujiang, Shuiwei, Antang, Renli, Sandong, Tingpai, Zhonghe, Tangzhou, Shuiyao, Sanjiang, Jiarong	69	U+00b2
+²$	²/¹	pi², kuŋ²	Tangnian, Jiaoli, Banliang, Antang, Pandong, Tangzhou, Sandong, Tingpai, Zhonghe, Dujiang, Renli, Sanjiang, Jiarong, Juqian, Shuiwei, Shuiyao	968	U+00b2 U+0024
+³	³/¹	te³ haːk⁷, te³ tak⁷	Jiaoli, Sanjiang, Pandong, Tangnian, Zhonghe, Tangzhou, Banliang, Renli, Shuiwei, Tingpai, Dujiang, Juqian, Shuiyao, Jiarong, Antang, Sandong	289	U+00b3
+³$	³/¹	ti³, kʰuŋ³	Renli, Sanjiang, Shuiwei, Juqian, Dujiang, Shuiyao, Sandong, Tingpai, Antang, Jiaoli, Jiarong, Tangnian, Banliang, Pandong, Zhonghe, Tangzhou	1438	U+00b3 U+0024
+¹	¹/¹	ʔma¹ qaːt⁷, van¹ ʔȵu¹	Juqian, Shuiwei, Zhonghe, Antang, Jiaoli, Tangnian, Shuiyao, Pandong, Jiarong, Tingpai, Sandong, Tangzhou, Dujiang, Banliang, Sanjiang, Renli	269	U+00b9
+¹$	¹/¹	pjam¹, van¹	Juqian, Shuiyao, Zhonghe, Sandong, Jiarong, Shuiwei, Renli, Jiaoli, Tingpai, Sanjiang, Tangzhou, Dujiang, Tangnian, Antang, Pandong, Banliang	2647	U+00b9 U+0024
+ã	ã	ka¹ hjã³, ȶik⁷ hjã³	Pandong, Tangnian, Jiarong, Banliang	5	U+00e3
+õ	õ	hõ¹, ʔõi⁴	Banliang, Sanjiang, Tangnian	6	U+00f5
+ăi	ăi	automatically added
+ău	ău	automatically added
+ăy	ăy	automatically added
+ăɪ	ăɪ	automatically added
+ăːi	ăːi	automatically added
+ăːu	ăːu	automatically added
+ăːy	ăːy	automatically added
+ăːɪ	ăːɪ	automatically added
+ẵĩ	ẵi	automatically added
+ẵũ	ẵu	automatically added
+ẵỹ	ẵy	automatically added
+ẵɪ̃	ẵɪ	automatically added
+ĩ	ĩ	ʔĩ⁶, ʔĩt⁷	Sanjiang, Dujiang, Antang, Tangzhou, Renli, Sandong, Tangnian, Tingpai	9	U+0129
+ŋ	ŋ	vaːŋ¹, ⁿdaːŋ¹	Juqian, Shuiyao, Shuiwei, Jiarong, Pandong, Zhonghe, Jiaoli, Antang, Renli, Dujiang, Sandong, Sanjiang, Tangzhou, Tingpai, Tangnian, Banliang	1198	U+014b
+ŋw	ŋ w	ʔŋwat⁷, ʔŋwa³	Dujiang, Zhonghe, Antang, Tangzhou, Sandong, Tingpai, Jiarong, Shuiwei, Juqian, Shuiyao, Banliang, Tangnian	19	U+014b U+0077
+ŋ̊	ŋ̊	tjui³ ŋ̊aːn³	Shuiwei	1	U+014b U+030a
+ũ	ũ	ȵ̥ũ¹, ʔũ³	Sandong, Banliang, Jiarong	4	U+0169
+ȵ	ȵ	ʔȵit⁷, van¹ ʔȵu¹	Juqian, Shuiwei, Sandong, Tingpai, Zhonghe, Shuiyao, Jiarong, Dujiang, Antang, Tangzhou, Tangnian, Banliang, Sanjiang, Renli, Jiaoli, Pandong	125	U+0235
+ȶ	ȶ	ti³ ȶaŋ², qa⁶ ȶu³	Shuiyao, Sanjiang, Banliang, Pandong, Jiaoli, Shuiwei, Tangnian, Zhonghe, Antang, Tangzhou, Renli, Tingpai, Jiarong	20	U+0236
+ȶʰ	ȶʰ	ti³ ȶʰi⁵, ʔma¹ ȶʰiu³	Tangnian, Antang, Tingpai, Banliang, Jiarong	8	U+0236 U+02b0
+ɐi	ɐi	automatically added
+ɐu	ɐu	automatically added
+ɐy	ɐy	automatically added
+ɐɪ	ɐɪ	automatically added
+ɐː	ɐː	mai⁴ ʁɐːn¹	Juqian	1	U+0250 U+02d0
+ɐːi	ɐːi	automatically added
+ɐːu	ɐːu	automatically added
+ɐːy	ɐːy	automatically added
+ɐːɪ	ɐːɪ	automatically added
+ɐ̃ĩ	ɐ̃i	automatically added
+ɐ̃ũ	ɐ̃u	automatically added
+ɐ̃ỹ	ɐ̃y	automatically added
+ɐ̃ɪ̃	ɐ̃ɪ	automatically added
+ɑi	ɑi	automatically added
+ɑu	ɑu	automatically added
+ɑy	ɑy	automatically added
+ɑɪ	ɑɪ	automatically added
+ɑːi	ɑːi	automatically added
+ɑːu	ɑːu	automatically added
+ɑːy	ɑːy	automatically added
+ɑːɪ	ɑːɪ	automatically added
+ɑ̃ĩ	ɑ̃i	automatically added
+ɑ̃ũ	ɑ̃u	automatically added
+ɑ̃ỹ	ɑ̃y	automatically added
+ɑ̃ɪ̃	ɑ̃ɪ	automatically added
+ɔ	ɔ	kwɔŋ³	Renli	1	U+0254
+ɔi	ɔi	automatically added
+ɔu	ɔu	automatically added
+ɔy	ɔy	automatically added
+ɔɪ	ɔɪ	automatically added
+ɔːi	ɔːi	automatically added
+ɔːu	ɔːu	automatically added
+ɔːy	ɔːy	automatically added
+ɔːɪ	ɔːɪ	automatically added
+ɔ̃ĩ	ɔ̃i	automatically added
+ɔ̃ũ	ɔ̃u	automatically added
+ɔ̃ỹ	ɔ̃y	automatically added
+ɔ̃ɪ̃	ɔ̃ɪ	automatically added
+ɕ	ɕ	laːk⁸ ɕa³, ʔau⁴ ɕən¹	Zhonghe, Tangzhou, Jiaoli, Sanjiang, Dujiang, Renli, Pandong, Sandong, Tingpai, Tangnian, Juqian, Antang, Banliang, Jiarong, Shuiwei	35	U+0255
+ɘ	ɘ	kʰɘt⁷	Jiarong	1	U+0258
+ə	ə	sən¹, ɕət⁷	Pandong, Tangzhou, Antang, Jiaoli, Tangnian, Juqian, Shuiwei, Shuiyao, Banliang, Dujiang, Zhonghe, Sandong, Renli, Sanjiang, Jiarong, Tingpai	810	U+0259
+əi	əi	automatically added
+əu	əu	automatically added
+əy	əy	automatically added
+əɪ	əɪ	automatically added
+əː	əː	ljəːk⁸, tu³ tʰəːt⁸	Jiaoli	2	U+0259 U+02d0
+əːi	əːi	automatically added
+əːu	əːu	automatically added
+əːy	əːy	automatically added
+əːɪ	əːɪ	automatically added
+ə̃ĩ	ə̃i	automatically added
+ə̃ũ	ə̃u	automatically added
+ə̃ỹ	ə̃y	automatically added
+ə̃ɪ̃	ə̃ɪ	automatically added
+əᵒ	ə ᵒ/¹	pəᵒ laːp⁷	Sanjiang	1	U+0259 U+1d52
+ɛ	ɛ	sɛu³	Tangnian	1	U+025b
+ɛi	ɛi	automatically added
+ɛu	ɛu	automatically added
+ɛy	ɛy	automatically added
+ɛɪ	ɛɪ	automatically added
+ɛːi	ɛːi	automatically added
+ɛːu	ɛːu	automatically added
+ɛːy	ɛːy	automatically added
+ɛːɪ	ɛːɪ	automatically added
+ɛ̃ĩ	ɛ̃i	automatically added
+ɛ̃ũ	ɛ̃u	automatically added
+ɛ̃ỹ	ɛ̃y	automatically added
+ɛ̃ɪ̃	ɛ̃ɪ	automatically added
+ɜ	ɜ	ɣɜt⁷	Zhonghe	1	U+025c
+ɣ	ɣ	ʔɣak⁷, ʔɣa⁵	Sandong, Zhonghe, Tangzhou, Shuiyao, Tingpai, Jiarong, Juqian, Shuiwei, Antang, Tangnian, Banliang, Pandong, Jiaoli, Sanjiang, Renli	80	U+0263
+ɤi	ɤi	automatically added
+ɤu	ɤu	automatically added
+ɤy	ɤy	automatically added
+ɤɪ	ɤɪ	automatically added
+ɤːi	ɤːi	automatically added
+ɤːu	ɤːu	automatically added
+ɤːy	ɤːy	automatically added
+ɤːɪ	ɤːɪ	automatically added
+ɤ̃ĩ	ɤ̃i	automatically added
+ɤ̃ũ	ɤ̃u	automatically added
+ɤ̃ỹ	ɤ̃y	automatically added
+ɤ̃ɪ̃	ɤ̃ɪ	automatically added
+ɨi	ɨi	automatically added
+ɨu	ɨu	automatically added
+ɨy	ɨy	automatically added
+ɨɪ	ɨɪ	automatically added
+ɨːi	ɨːi	automatically added
+ɨːu	ɨːu	automatically added
+ɨːy	ɨːy	automatically added
+ɨːɪ	ɨːɪ	automatically added
+ɨ̃ĩ	ɨ̃i	automatically added
+ɨ̃ũ	ɨ̃u	automatically added
+ɨ̃ỹ	ɨ̃y	automatically added
+ɨ̃ɪ̃	ɨ̃ɪ	automatically added
+ɪ	ɪ	laːu³ ɕɪŋ⁵, ɕɪp⁸	Sandong, Zhonghe, Tingpai, Jiarong	5	U+026a
+ɪai	j ai	automatically added
+ɪau	j au	automatically added
+ɪay	j ay	automatically added
+ɪaɪ	j aɪ	automatically added
+ɪaːi	j aːi	automatically added
+ɪaːu	j aːu	automatically added
+ɪaːy	j aːy	automatically added
+ɪaːɪ	j aːɪ	automatically added
+ɪãĩ	j ãi	automatically added
+ɪãũ	j ãu	automatically added
+ɪãỹ	j ãy	automatically added
+ɪãɪ̃	j ãɪ	automatically added
+ɪa̱i	j a̱i	automatically added
+ɪa̱u	j a̱u	automatically added
+ɪa̱y	j a̱y	automatically added
+ɪa̱ɪ	j a̱ɪ	automatically added
+ɪa̱ːi	j a̱ːi	automatically added
+ɪa̱ːu	j a̱ːu	automatically added
+ɪa̱ːy	j a̱ːy	automatically added
+ɪa̱ːɪ	j a̱ːɪ	automatically added
+ɪã̱ĩ	j ã̱i	automatically added
+ɪã̱ũ	j ã̱u	automatically added
+ɪã̱ỹ	j ã̱y	automatically added
+ɪã̱ɪ̃	j ã̱ɪ	automatically added
+ɪei	j ei	automatically added
+ɪeu	j eu	automatically added
+ɪey	j ey	automatically added
+ɪeɪ	j eɪ	automatically added
+ɪeːi	j eːi	automatically added
+ɪeːu	j eːu	automatically added
+ɪeːy	j eːy	automatically added
+ɪeːɪ	j eːɪ	automatically added
+ɪẽĩ	j ẽi	automatically added
+ɪẽũ	j ẽu	automatically added
+ɪẽỹ	j ẽy	automatically added
+ɪẽɪ̃	j ẽɪ	automatically added
+ɪi	ɪi	automatically added
+ɪoi	j oi	automatically added
+ɪou	j ou	automatically added
+ɪoy	j oy	automatically added
+ɪoɪ	j oɪ	automatically added
+ɪoːi	j oːi	automatically added
+ɪoːu	j oːu	automatically added
+ɪoːy	j oːy	automatically added
+ɪoːɪ	j oːɪ	automatically added
+ɪõĩ	j õi	automatically added
+ɪõũ	j õu	automatically added
+ɪõỹ	j õy	automatically added
+ɪõɪ̃	j õɪ	automatically added
+ɪu	ɪu	automatically added
+ɪy	ɪy	automatically added
+ɪăi	j ăi	automatically added
+ɪău	j ău	automatically added
+ɪăy	j ăy	automatically added
+ɪăɪ	j ăɪ	automatically added
+ɪăːi	j ăːi	automatically added
+ɪăːu	j ăːu	automatically added
+ɪăːy	j ăːy	automatically added
+ɪăːɪ	j ăːɪ	automatically added
+ɪẵĩ	j ẵi	automatically added
+ɪẵũ	j ẵu	automatically added
+ɪẵỹ	j ẵy	automatically added
+ɪẵɪ̃	j ẵɪ	automatically added
+ɪɐi	j ɐi	automatically added
+ɪɐu	j ɐu	automatically added
+ɪɐy	j ɐy	automatically added
+ɪɐɪ	j ɐɪ	automatically added
+ɪɐːi	j ɐːi	automatically added
+ɪɐːu	j ɐːu	automatically added
+ɪɐːy	j ɐːy	automatically added
+ɪɐːɪ	j ɐːɪ	automatically added
+ɪɐ̃ĩ	j ɐ̃i	automatically added
+ɪɐ̃ũ	j ɐ̃u	automatically added
+ɪɐ̃ỹ	j ɐ̃y	automatically added
+ɪɐ̃ɪ̃	j ɐ̃ɪ	automatically added
+ɪɑi	j ɑi	automatically added
+ɪɑu	j ɑu	automatically added
+ɪɑy	j ɑy	automatically added
+ɪɑɪ	j ɑɪ	automatically added
+ɪɑːi	j ɑːi	automatically added
+ɪɑːu	j ɑːu	automatically added
+ɪɑːy	j ɑːy	automatically added
+ɪɑːɪ	j ɑːɪ	automatically added
+ɪɑ̃ĩ	j ɑ̃i	automatically added
+ɪɑ̃ũ	j ɑ̃u	automatically added
+ɪɑ̃ỹ	j ɑ̃y	automatically added
+ɪɑ̃ɪ̃	j ɑ̃ɪ	automatically added
+ɪɔi	j ɔi	automatically added
+ɪɔu	j ɔu	automatically added
+ɪɔy	j ɔy	automatically added
+ɪɔɪ	j ɔɪ	automatically added
+ɪɔːi	j ɔːi	automatically added
+ɪɔːu	j ɔːu	automatically added
+ɪɔːy	j ɔːy	automatically added
+ɪɔːɪ	j ɔːɪ	automatically added
+ɪɔ̃ĩ	j ɔ̃i	automatically added
+ɪɔ̃ũ	j ɔ̃u	automatically added
+ɪɔ̃ỹ	j ɔ̃y	automatically added
+ɪɔ̃ɪ̃	j ɔ̃ɪ	automatically added
+ɪəi	j əi	automatically added
+ɪəu	j əu	automatically added
+ɪəy	j əy	automatically added
+ɪəɪ	j əɪ	automatically added
+ɪəːi	j əːi	automatically added
+ɪəːu	j əːu	automatically added
+ɪəːy	j əːy	automatically added
+ɪəːɪ	j əːɪ	automatically added
+ɪə̃ĩ	j ə̃i	automatically added
+ɪə̃ũ	j ə̃u	automatically added
+ɪə̃ỹ	j ə̃y	automatically added
+ɪə̃ɪ̃	j ə̃ɪ	automatically added
+ɪɛi	j ɛi	automatically added
+ɪɛu	j ɛu	automatically added
+ɪɛy	j ɛy	automatically added
+ɪɛɪ	j ɛɪ	automatically added
+ɪɛːi	j ɛːi	automatically added
+ɪɛːu	j ɛːu	automatically added
+ɪɛːy	j ɛːy	automatically added
+ɪɛːɪ	j ɛːɪ	automatically added
+ɪɛ̃ĩ	j ɛ̃i	automatically added
+ɪɛ̃ũ	j ɛ̃u	automatically added
+ɪɛ̃ỹ	j ɛ̃y	automatically added
+ɪɛ̃ɪ̃	j ɛ̃ɪ	automatically added
+ɪɤi	j ɤi	automatically added
+ɪɤu	j ɤu	automatically added
+ɪɤy	j ɤy	automatically added
+ɪɤɪ	j ɤɪ	automatically added
+ɪɤːi	j ɤːi	automatically added
+ɪɤːu	j ɤːu	automatically added
+ɪɤːy	j ɤːy	automatically added
+ɪɤːɪ	j ɤːɪ	automatically added
+ɪɤ̃ĩ	j ɤ̃i	automatically added
+ɪɤ̃ũ	j ɤ̃u	automatically added
+ɪɤ̃ỹ	j ɤ̃y	automatically added
+ɪɤ̃ɪ̃	j ɤ̃ɪ	automatically added
+ɪɨi	j ɨi	automatically added
+ɪɨu	j ɨu	automatically added
+ɪɨy	j ɨy	automatically added
+ɪɨɪ	j ɨɪ	automatically added
+ɪɨːi	j ɨːi	automatically added
+ɪɨːu	j ɨːu	automatically added
+ɪɨːy	j ɨːy	automatically added
+ɪɨːɪ	j ɨːɪ	automatically added
+ɪɨ̃ĩ	j ɨ̃i	automatically added
+ɪɨ̃ũ	j ɨ̃u	automatically added
+ɪɨ̃ỹ	j ɨ̃y	automatically added
+ɪɨ̃ɪ̃	j ɨ̃ɪ	automatically added
+ɪɪ	ɪɪ	automatically added
+ɪɪi	j ɪi	automatically added
+ɪɪu	j ɪu	automatically added
+ɪɪy	j ɪy	automatically added
+ɪɪɪ	j ɪɪ	automatically added
+ɪɪːi	j ɪːi	automatically added
+ɪɪːu	j ɪːu	automatically added
+ɪɪːy	j ɪːy	automatically added
+ɪɪːɪ	j ɪːɪ	automatically added
+ɪɪ̃ĩ	j ɪ̃i	automatically added
+ɪɪ̃ũ	j ɪ̃u	automatically added
+ɪɪ̃ỹ	j ɪ̃y	automatically added
+ɪɪ̃ɪ̃	j ɪ̃ɪ	automatically added
+ɪɯi	j ɯi	automatically added
+ɪɯu	j ɯu	automatically added
+ɪɯy	j ɯy	automatically added
+ɪɯɪ	j ɯɪ	automatically added
+ɪɯːi	j ɯːi	automatically added
+ɪɯːu	j ɯːu	automatically added
+ɪɯːy	j ɯːy	automatically added
+ɪɯːɪ	j ɯːɪ	automatically added
+ɪɯ̃ĩ	j ɯ̃i	automatically added
+ɪɯ̃ũ	j ɯ̃u	automatically added
+ɪɯ̃ỹ	j ɯ̃y	automatically added
+ɪɯ̃ɪ̃	j ɯ̃ɪ	automatically added
+ɪːi	ɪːi	automatically added
+ɪːu	ɪːu	automatically added
+ɪːy	ɪːy	automatically added
+ɪːɪ	ɪːɪ	automatically added
+ɪ̃ĩ	ɪ̃i	automatically added
+ɪ̃ũ	ɪ̃u	automatically added
+ɪ̃ỹ	ɪ̃y	automatically added
+ɪ̃ɪ̃	ɪ̃ɪ	automatically added
+ɯ	ɯ	tsa² lɯə¹, ⁿdɯə¹	Jiaoli	9	U+026f
+ɯi	ɯi	automatically added
+ɯu	ɯu	automatically added
+ɯy	ɯy	automatically added
+ɯɪ	ɯɪ	automatically added
+ɯːi	ɯːi	automatically added
+ɯːu	ɯːu	automatically added
+ɯːy	ɯːy	automatically added
+ɯːɪ	ɯːɪ	automatically added
+ɯ̃ĩ	ɯ̃i	automatically added
+ɯ̃ũ	ɯ̃u	automatically added
+ɯ̃ỹ	ɯ̃y	automatically added
+ɯ̃ɪ̃	ɯ̃ɪ	automatically added
+ɿ	ɿ	sɿ³ miŋ², tsʰɿ⁴ kən³	Zhonghe, Banliang, Tingpai, Antang, Tangzhou, Tangnian, Jiaoli	10	U+027f
+ʁ	ʁ	mai⁴ ʁaːn¹, qaːi⁵ ʁaːŋ⁵	Jiarong, Juqian, Shuiyao, Renli, Shuiwei, Tingpai, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Jiaoli, Sandong	21	U+0281
+ʊ	ʊ	kə³ ljʊp⁷, ȶʊp⁷	Tangnian	3	U+028a
+ʔ	ʔ	van¹ ʔȵu¹, van¹ ʔmu³	Shuiyao, Juqian, Shuiwei, Jiarong, Zhonghe, Antang, Tingpai, Tangzhou, Sandong, Dujiang, Jiaoli, Sanjiang, Pandong	113	U+0294
+ʔb	ˀb
+ʔd	ˀd
+ʔm	ˀm
+ʔn	ˀn
+ʔȵ	ˀȵ
+ʔɣ	ˀɣ
+ᵐb	ⁿb				
+ẽ	ẽ	ʔẽ³, ni⁴ ʔẽ³	Banliang, Sanjiang, Dujiang, Zhonghe, Antang, Tangzhou, Renli, Sandong, Shuiwei, Tingpai, Jiaoli	12	U+1ebd
+⁰	⁰/¹	qu⁰ lu⁵, pə⁰ laːp⁷	Banliang, Renli, Jiaoli, Dujiang, Antang, Shuiyao, Sandong	17	U+2070
+⁴	⁴/¹	ni⁴ maːŋ², mai⁴ ʁaːn¹	Jiaoli, Zhonghe, Banliang, Sanjiang, Shuiwei, Renli, Tangnian, Tangzhou, Antang, Sandong, Dujiang, Juqian, Shuiyao, Tingpai, Jiarong, Pandong	181	U+2074
+⁴$	⁴/¹	ja⁴, nu⁴	Pandong, Tangnian, Jiaoli, Dujiang, Shuiwei, Banliang, Jiarong, Sanjiang, Juqian, Shuiyao, Antang, Tangzhou, Renli, Sandong, Tingpai, Zhonghe	655	U+2074 U+0024
+⁵	⁵/¹	ɣaːŋ⁵ ɣau¹, ʁaːŋ⁵ qaːi⁵	Pandong, Jiaoli, Banliang, Tingpai, Shuiyao, Tangnian, Renli, Sanjiang, Sandong, Shuiwei, Juqian, Zhonghe, Antang, Tangzhou, Jiarong, Dujiang	96	U+2075
+⁵ ᵐb	⁵ ᵐb	pu⁵ᵐbin³	Renli	1	U+2075 U+1d50
+⁵$	⁵/¹	va⁵, ɣaːŋ⁵	Sanjiang, Shuiwei, Juqian, Banliang, Jiaoli, Dujiang, Antang, Renli, Pandong, Sandong, Tingpai, Zhonghe, Tangzhou, Tangnian, Shuiyao, Jiarong	1285	U+2075 U+0024
+⁶	⁶/¹	ti⁶ tau¹, to⁶ laːk⁸	Jiaoli, Renli, Pandong, Shuiwei, Sanjiang, Antang, Shuiyao, Jiarong, Juqian, Zhonghe, Tangzhou, Banliang, Dujiang, Sandong, Tingpai	58	U+2076
+⁶$	⁶/¹	ta⁶, ŋaːn⁶	Pandong, Shuiyao, Tangnian, Tangzhou, Jiarong, Zhonghe, Banliang, Sandong, Shuiwei, Tingpai, Sanjiang, Dujiang, Juqian, Antang, Jiaoli, Renli	570	U+2076 U+0024
+⁷	⁷/¹	laːk⁷ kʰət⁷, laːk⁷ laːi¹	Tangnian, Tingpai, Dujiang, Antang, Banliang, Pandong, Sandong, Zhonghe, Renli, Sanjiang, Shuiwei, Tangzhou, Juqian, Shuiyao, Jiarong, Jiaoli	77	U+2077
+⁷$	⁷/¹	laːk⁷, pek⁷	Juqian, Sandong, Shuiyao, Antang, Tangzhou, Shuiwei, Sanjiang, Zhonghe, Jiarong, Renli, Tingpai, Dujiang, Banliang, Pandong, Tangnian, Jiaoli	1424	U+2077 U+0024
+⁸	⁸/¹	laːk⁸ mbaːn¹, laːk⁸ haːu⁴	Banliang, Pandong, Tingpai, Sanjiang, Tangzhou, Tangnian, Juqian, Zhonghe, Antang, Renli, Dujiang, Jiarong, Sandong, Shuiwei, Shuiyao, Jiaoli	93	U+2078
+⁸$	⁸/¹	ȶit⁸, nok⁸	Tangzhou, Banliang, Dujiang, Tangnian, Zhonghe, Antang, Sandong, Tingpai, Shuiyao, Shuiwei, Juqian, Jiarong, Renli, Sanjiang, Pandong, Jiaoli	468	U+2078 U+0024
+ⁿ	NULL				

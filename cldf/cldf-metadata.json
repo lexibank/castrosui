@@ -1,12 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Castro-2015-608"
     ],
     "dc:identifier": "",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "castrosui",
     "dcat:accessURL": "https://github.com/lexibank/castrosui",
@@ -19,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-176-ga518a97"
+                "glottolog_version": "v3.4-1-g07a9b54e37",
+                "concepticon_version": "pyconcepticon-1.4.0-206-g1ad282b"
             }
         }
     ],
