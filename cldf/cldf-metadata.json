@@ -12,7 +12,7 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "castrosui",
+    "dc:title": "Sui Dialect Research",
     "dcat:accessURL": "https://github.com/lexibank/castrosui",
     "rdf:ID": "castrosui",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
@@ -23,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54e37",
-                "concepticon_version": "pyconcepticon-1.4.0-206-g1ad282b"
+                "glottolog_version": "v4.0-12-ge90a2e3",
+                "concepticon_version": "v2.0-28-g30d405a"
             }
         }
     ],
