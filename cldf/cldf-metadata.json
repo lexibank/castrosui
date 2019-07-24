@@ -23,7 +23,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e3",
+                "glottolog_version": "v4.0-12-ge90a2e37f4",
                 "concepticon_version": "v2.0-28-g30d405a"
             }
         }
