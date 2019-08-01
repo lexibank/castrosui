@@ -23,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e37f4",
-                "concepticon_version": "v2.0-28-g30d405a"
+                "glottolog_version": "v4.0-12-ge90a2e3",
+                "concepticon_version": "v2.1.0-6-ga171367"
             }
         }
     ],
@@ -185,7 +185,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Chinese_name"
+                        "name": "ChineseName"
                     },
                     {
                         "datatype": "string",
@@ -194,6 +194,22 @@
                     {
                         "datatype": "string",
                         "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ID_in_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "DialectGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number_in_Source"
                     }
                 ],
                 "primaryKey": [

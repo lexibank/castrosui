@@ -5,8 +5,7 @@ from clldutils.path import Path
 from lingpy import *
 from pylexibank.dataset import Concept, Language
 from pylexibank.dataset import Dataset as BaseDataset
-from tqdm import tqdm
-
+from pylexibank.util import pb
 
 @attr.s
 class HConcept(Concept):
@@ -15,11 +14,16 @@ class HConcept(Concept):
 
 @attr.s
 class HLanguage(Language):
-    Chinese_name = attr.ib(default=None)
+    ChineseName = attr.ib(default=None)
     Population = attr.ib(default=None)
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
+    ID_in_Source = attr.ib(default=None)
+    Family = attr.ib(default='Tai-Kadai')
+    DialectGroup = attr.ib(default=None)
+    Location = attr.ib(default=None)
+    Number_in_Source = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -52,18 +56,8 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept.concepticon_id,
                     Concepticon_Gloss=concept.concepticon_gloss,
                 )
-            for language in self.languages:
-                ds.add_language(
-                    ID=language["ID"],
-                    Glottocode=language["Glottolog"],
-                    Name=language["Name"],
-                    SubGroup=language["Group"],
-                    Chinese_name=language["Chinese_name"],
-                    Latitude=language["Latitude"],
-                    Longitude=language["Longitude"],
-                )
-                langs[language["ID"]] = language
-
+            langs = {k['ID_in_Source']: k for k in self.languages}
+            ds.add_languages()
             ds.add_sources(*self.raw.read_bib())
 
             idx = 1
@@ -82,7 +76,7 @@ class Dataset(BaseDataset):
                 ]
             }
 
-            for line in tqdm(wl, desc="load the data"):
+            for line in pb(wl, desc="load the data"):
                 if not line[0].strip():
                     phonetic = True
                 if line[0] == "'Ref#":
@@ -102,7 +96,7 @@ class Dataset(BaseDataset):
                                     mapping[idx] = [
                                         langs[taxon]["Name"],
                                         taxon,
-                                        langs[taxon]["Glottolog"],
+                                        langs[taxon]["Glottocode"],
                                         cname.english,
                                         num[1:],
                                         val,
@@ -133,10 +127,10 @@ class Dataset(BaseDataset):
             )
 
             # add data to cldf
-            for idx in tqdm(range(1, len(mapping)), desc="cldf the data", total=len(mapping)):
+            for idx in pb(range(1, len(mapping)), desc="cldfify", total=len(mapping)):
                 vals = dict(zip(mapping[0], mapping[idx]))
                 ds.add_lexemes(
-                    Language_ID=vals["doculectid"],
+                    Language_ID=langs[vals["doculectid"]]['ID'],
                     Parameter_ID=vals["glossid"],
                     Value=vals["value"],
                     Source=["Castro2015"],
