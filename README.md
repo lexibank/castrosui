@@ -31,6 +31,6 @@ This dataset was taken from the original data published by Andy Castro, who was 
 - **Sources:** 1
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
-- **Tokens:** 42,015
+- **Tokens:** 41,984
 - **Segments:** 101 (0 BIPA errors, 0 CTLS sound class errors, 101 CLTS modified)
 - **Inventory size (avg):** 67.00

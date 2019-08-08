@@ -18,7 +18,7 @@ class HLanguage(Language):
     Population = attr.ib(default=None)
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
-    SubGroup = attr.ib(default=None)
+    SubGroup = attr.ib(default='Sui')
     ID_in_Source = attr.ib(default=None)
     Family = attr.ib(default='Tai-Kadai')
     DialectGroup = attr.ib(default=None)
