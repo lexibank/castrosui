@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/castrosui",
-            "dc:created": "v1.0.1-7-gad90dc0"
+            "dc:created": "v1.0.1-8-ga2d1331"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,15 +27,15 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
-        },
-        {
-            "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/lingulist/glottolog-data",
             "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
