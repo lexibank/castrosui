@@ -302,7 +302,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 307_togive,to give,1447,GIVE,给
 308_toborrow,to borrow,1823,BORROW,借
 309_tosteal,to steal,713,STEAL,偷
-310_tolose,to lose,1660,LOSE,丢（丢失）
+310_tolose,to lose,3072,MISPLACE,丢（丢失）
 311_topulla,to pull A,1455,PULL,拉（人）
 312_topullb,to pull B,1455,PULL,拉（东西在地上）
 313_topullupsleeves,to pull up (sleeves),,,"拉上（裤筒, 袖子）"
@@ -337,7 +337,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 348_towashhands,to wash (hands),1453,WASH,洗（脸）
 349_towashclothes,to wash (clothes),2503,LAUNDER,洗（衣服）
 350_toplough,to plough,1921,PLOUGH,犁（田）
-351_topullupweeds,to pull up (weeds),,,薅
+351_topullupweeds,to pull up (weeds),3548,PULL UP WEEDS,薅
 352_todigup,to dig up,,,挖（从地里挖出土豆）
 353_tocut,to cut,1432,CUT,割（草）
 354_tosharpen,to sharpen,251,SHARPEN (SOMETHING),磨（刀）
@@ -417,7 +417,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 432_towarmoneself,to warm oneself,,,烤（火）
 433_todrybythefire,to dry by the fire,,,烤，烘干（衣服）
 434_todryinsun,to dry in sun,2015,MAKE DRY,晾（衣服）
-435_toburnfields,to burn (fields),,,烧（地）
+435_toburnfields,to burn (fields),3539,BURN LAND,烧（地）
 436_toknowafact,to know (a fact),1410,KNOW (SOMETHING),知道
 437_toknowaperson,to know (a person),2248,KNOW (SOMEBODY),认识
 438_towait,to wait,1590,WAIT (FOR),等
