@@ -121,7 +121,7 @@ class Dataset(BaseDataset):
         # add data to cldf
         for idx in progressbar(range(1, len(mapping)), desc="cldfify", total=len(mapping)):
             vals = dict(zip(mapping[0], mapping[idx]))
-            args.writer.add_lexemes(
+            args.writer.add_forms_from_value(
                 Language_ID=language_lookup[vals["doculectid"]]["ID"],
                 Parameter_ID=concept_lookup[vals["glossid"]][0],
                 Value=vals["value"],
