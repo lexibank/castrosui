@@ -11,25 +11,25 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Sui Dialect Research",
-    "dcat:accessURL": "https://github.com/lexibank/castrosui",
+    "dcat:accessURL": "https://github.com/MacyL/castrosui",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/castrosui",
-            "dc:created": "v1.0.1-9-g23527f0"
+            "rdf:about": "https://github.com/MacyL/castrosui",
+            "dc:created": "v2.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/clld/concepticon-data",
+            "dc:created": "v2.2.1a-296-g924a7cf"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0"
+            "dc:created": "v4.1-5-g5f99100"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +41,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.3"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",

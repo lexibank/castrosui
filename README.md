@@ -18,9 +18,9 @@ This dataset was taken from the original data published by Andy Castro, who was 
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/castrosui.svg?branch=master)](https://travis-ci.org/lexibank/castrosui)
+[![Build Status](https://travis-ci.org/MacyL/castrosui.svg?branch=master)](https://travis-ci.org/MacyL/castrosui)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 86%](https://img.shields.io/badge/Concepticon-86%25-yellowgreen.svg "Concepticon: 86%")
+![Concepticon: 87%](https://img.shields.io/badge/Concepticon-87%25-yellowgreen.svg "Concepticon: 87%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")

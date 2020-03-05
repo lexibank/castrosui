@@ -25,7 +25,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 24_cigarette,cigarette,969,CIGARETTE,烟（吸烟）
 25_water,water,948,WATER,水
 26_steam,steam,1193,STEAM,蒸汽
-27_river,river,666,RIVER,河
+27_river,river,3311,FLOWING BODY OF WATER,河
 28_stream,stream,947,STREAM,溪
 29_largepool,large pool,,,水塘（大的）
 30_rock,rock,857,STONE,石头
@@ -91,7 +91,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 90_wildboar,wildboar,3154,WILD BOAR,野猪
 91_goat,goat,1502,GOAT,羊（养的）
 92_chicken,chicken,1318,CHICKEN,鸡
-93_young,young,2513,CHICKEN CHICK,未下蛋的母鸡
+93_young,young,,,未下蛋的母鸡
 94_duck,duck,1360,DUCK,鸭
 95_goose,goose,1187,GOOSE,鹅
 96_bird,bird,937,BIRD,鸟
@@ -131,7 +131,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 130_stinkbug,stink bug,,,臭虫（山上）
 131_flea,flea,232,FLEA,跳蚤
 132_maggot,maggot,2640,LARVA,蛆
-133_worm,worm,1219,WORM,蚯蚓
+133_worm,worm,2350,EARTHWORM,蚯蚓
 134_leech,leech,949,WATER LEECH,蚂蝗
 135_snake,snake,730,SNAKE,蛇
 136_dragon,dragon,2038,DRAGON,龙
@@ -226,7 +226,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 227_gong,gong,2502,GONG,锣
 228_bronzedrum,bronze drum,,,铜鼓
 229_topgame,top (game),,,陀螺
-230_coop,coop,,,圈（鸡圈）
+230_coop,coop,3401,HENHOUSE,圈（鸡圈）
 231_lairburrow,"lair, burrow",2949,LAIR,窝（老鼠住的）
 232_room,room,1450,ROOM,房间（房圈）
 233_toilet,toilet,219,TOILET,厕所
@@ -273,7 +273,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 274_daughterinlaw,daughter-in-law,1057,DAUGHTER-IN-LAW,媳妇（儿媳）
 275_son,son,1620,SON,儿子
 276_daughter,daughter,1357,DAUGHTER,女儿
-277_grandchild,grandchild,1617,GRANDCHILD,孙子
+277_grandchild,grandchild,1618,GRANDSON,孙子
 278_elderbrother,elder brother,1759,OLDER BROTHER,哥哥
 279_eldersister,elder sister,1758,OLDER SISTER,姐姐
 280_youngersiblings,younger siblings,427,YOUNGER SIBLING,弟或妹
@@ -297,7 +297,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 298_torinseout,to rinse out,,,漱口
 299_tobuy,to buy,1869,BUY,买
 300_tosell,to sell,1571,SELL,卖
-305_tothrowaway,to throw away,,,扔
+305_tothrowaway,to throw away,3696,THROW AWAY,扔
 306_toexchange,to exchange,2509,EXCHANGE,换（交换）
 307_togive,to give,1447,GIVE,给
 308_toborrow,to borrow,1823,BORROW,借
@@ -357,7 +357,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 372_toaccompany,to accompany,1542,ACCOMPANY,陪
 373_toask,to ask,1309,ASK (INQUIRE),问
 374_tochat,to chat,2903,CHAT (WITH SOMEBODY),聊天，玩
-375_tolie,to lie,1411,LIE (REST),撒谎，假
+375_tolie,to lie,601,LIE (MISLEAD),撒谎，假
 376_toagree,to agree,,,同意
 377_tobewillingto,to be willing to,,,愿意
 378_tolaugh,to laugh,1355,LAUGH,笑
@@ -396,7 +396,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 411_toerect,to erect,,,搭（桥）
 412_completet,completet,,,完（用完了）
 413_tobecome,to become,1990,BECOME,成，成为
-414_tocomplain,to complain,,,责怪，抱怨
+414_tocomplain,to complain,3642,COMPLAIN,责怪，抱怨
 415_tolove,to love,923,LOVE,爱，疼爱（小孩）
 416_tolike,to like,1117,LIKE,喜欢
 417_tosnap,to snap,2558,BREAK (CLEAVE),断（筷子断了）
@@ -411,12 +411,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 426_tosoak,to soak,2069,SOAK (VERB),泡（米）
 427_toextinguish,to extinguish,127,EXTINGUISH,熄灭
 428_topeel,to peel,275,PEEL,削（皮）
-429_topound,to pound,354,POUND,舂（米）
+429_topound,to pound,3768,POUND (FOOD),舂（米）
 430_towipe,to wipe,1454,WIPE,擦（擦桌子）
 431_toscrub,to scrub,,,搓洗（用力地）
-432_towarmoneself,to warm oneself,,,烤（火）
+432_towarmoneself,to warm oneself,2032,WARM UP,烤（火）
 433_todrybythefire,to dry by the fire,,,烤，烘干（衣服）
-434_todryinsun,to dry in sun,2015,MAKE DRY,晾（衣服）
+434_todryinsun,to dry in sun,3364,DRY IN SUN,晾（衣服）
 435_toburnfields,to burn (fields),3539,BURN LAND,烧（地）
 436_toknowafact,to know (a fact),1410,KNOW (SOMETHING),知道
 437_toknowaperson,to know (a person),2248,KNOW (SOMEBODY),认识
@@ -427,7 +427,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 442_todo,to do,813,DO,做（做事情）
 443_todisappear,to disappear,485,DISAPPEAR,消失
 444_toforget,to forget,1523,FORGET,忘记
-445_tocarryonshoulderpole,to carry on shoulder pole,,,挑（水）
+445_tocarryonshoulderpole,to carry on shoulder pole,3438,CARRY (WITH POLE ON SHOULDER),挑（水）
 446_carryovershoulder,carry over shoulder,413,CARRY ON SHOULDER,挎
 447_tocarryonback,to carry on back,465,CARRY ON BACK,背（小孩）
 448_toholdachild,to hold (a child),,,抱（小孩）
@@ -531,7 +531,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 546_salty,salty,1091,SALTY,咸
 547_fishy,fishy,,,腥（味）
 548_puckery,puckery,,,涩（味）
-549_bland,bland,,,淡
+549_bland,bland,2181,LIGHT (IN TASTE),淡
 550_crispy,crispy,,,脆
 551_wetclothes,wet (clothes),1726,WET,湿（衣服湿）
 552_dryclothes,dry (clothes),1398,DRY,干（衣服干）
@@ -556,7 +556,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 571_straight,straight,1404,STRAIGHT,直
 572_deep,deep,1593,DEEP,深
 573_shallow,shallow,193,SHALLOW,浅
-574_tightclothes,tight (clothes),,,紧（衣服紧）
+574_tightclothes,tight (clothes),3053,TIGHT,紧（衣服紧）
 575_many,many,1198,MANY,多
 576_few,few,1242,FEW,少
 577_clear,clear,989,CLEAR,清楚（讲得清楚）
