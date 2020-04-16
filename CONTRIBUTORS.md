@@ -1,8 +1,8 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Johann-Mattis List | @LinguList  | maintainer
-Mei-Shin Wu        | @MacyL      | maintainer
-Patience Epps      |   | help with concept mapping
-Andy Castro | | help with concept mapping and original data
+Name               | GitHub user | Descriptin |Role
+---                | ---         | --- | ---
+Johann-Mattis List | @LinguList  | maintainer | Author
+Mei-Shin Wu        | @MacyL      | maintainer | Author
+Patience Epps      |   | help with concept mapping | Other
+Andy Castro | | help with concept mapping and original data | DataCurator, DataCollector
