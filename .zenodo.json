@@ -1,0 +1,40 @@
+{
+    "title": "CLDF dataset derived from Castro's \"Sui Dialect Research\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Mei-Shin Wu"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Patience Epps",
+            "type": "Other"
+        },
+        {
+            "name": "Andy Castro",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Andy Castro",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
