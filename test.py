@@ -3,7 +3,7 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset):
-    assert len(list(cldf_dataset["FormTable"])) == 9693
+    assert len(list(cldf_dataset["FormTable"])) == 9459
     assert any(f["Form"] == "ʔnui¹" for f in cldf_dataset["FormTable"])
 
 

@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/castrosui",
-            "dc:created": "v2.0-8-g562d009"
+            "dc:created": "v2.0-9-g7185d53"
         },
         {
             "rdf:type": "prov:Entity",
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 9693,
+            "dc:extent": 9459,
             "tableSchema": {
                 "columns": [
                     {
