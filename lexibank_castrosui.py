@@ -2,7 +2,7 @@ from collections import defaultdict
 
 import attr
 from pathlib import Path
-from pylexibank import Concept, Language
+from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
@@ -34,8 +34,9 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
 
-    def cmd_makecldf(self, args):
+    form_spec = FormSpec(separators=",")
 
+    def cmd_makecldf(self, args):
         wl = self.raw_dir.read_csv("wordlist.tsv", delimiter="\t")
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -61,7 +62,6 @@ class Dataset(BaseDataset):
                 "concept",
                 "glossid",
                 "value",
-                "form",
                 "phonetic",
                 "concepticon_id",
                 "concepticon_gloss",
@@ -82,25 +82,21 @@ class Dataset(BaseDataset):
                 for num, gloss, val in zip(numbers[1:], glosses[1:], line[1:]):
                     if num.strip() and gloss.strip():
                         cname = concept_lookup[num[1:]][1]
-                        forms = val.split(",")
-                        if forms:
-                            for form in forms:
-                                mapping[idx] = [
-                                    language_lookup[taxon]["Name"],
-                                    taxon,
-                                    language_lookup[taxon]["Glottocode"],
-                                    cname.english,
-                                    num[1:],
-                                    val,
-                                    form.strip(),
-                                    "",  # check later for phonetic value
-                                    cname.concepticon_id,
-                                    cname.concepticon_gloss,
-                                ]
-                                idxs[taxon, gloss] += [idx]
-                                idx += 1
-                        else:
-                            print("missing value", gloss, num, taxon)
+                        if val:
+                            mapping[idx] = [
+                                language_lookup[taxon]["Name"],
+                                taxon,
+                                language_lookup[taxon]["Glottocode"],
+                                cname.english,
+                                num[1:],
+                                val,
+                                "",  # check later for phonetic value
+                                cname.concepticon_id,
+                                cname.concepticon_gloss,
+                            ]
+
+                            idxs[taxon, gloss] += [idx]
+                            idx += 1
 
             elif line[0] in language_lookup and phonetic:
                 taxon = line[0]
@@ -109,10 +105,7 @@ class Dataset(BaseDataset):
                         these_idx = idxs.get((taxon, gloss))
                         if not these_idx:
                             pass
-                        else:
-                            forms = val.split(",")
-                            for this_idx, form in zip(these_idx, forms):
-                                mapping[this_idx][7] = form
+
         # export to lingpy wordlist in raw folder
         # Wordlist(mapping).output(
         #    "tsv", filename=self.dir.joinpath("raw", "lingpy-wordlist").as_posix()
@@ -121,9 +114,18 @@ class Dataset(BaseDataset):
         # add data to cldf
         for idx in progressbar(range(1, len(mapping)), desc="cldfify", total=len(mapping)):
             vals = dict(zip(mapping[0], mapping[idx]))
+
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[vals["doculectid"]]["ID"],
                 Parameter_ID=concept_lookup[vals["glossid"]][0],
                 Value=vals["value"],
                 Source=["Castro2015"],
             )
+
+        # We explicitly remove the ISO code column since the languages in
+        # this datasets do not have an ISO code.
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]

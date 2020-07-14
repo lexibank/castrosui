@@ -27,11 +27,11 @@ This dataset was taken from the original data published by Andy Castro, who was 
 
 - **Varieties:** 16
 - **Concepts:** 592
-- **Lexemes:** 9,693
+- **Lexemes:** 9,459
 - **Sources:** 1
-- **Synonymy:** 1.04
+- **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 41,989
+- **Tokens:** 40,883
 - **Segments:** 101 (0 BIPA errors, 0 CTLS sound class errors, 101 CLTS modified)
 - **Inventory size (avg):** 67.00
 
