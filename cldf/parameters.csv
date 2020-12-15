@@ -335,7 +335,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 345_todive,to dive,119,DIVE,潜水
 347_tofly,to fly,1441,FLY (MOVE THROUGH AIR),飞
 348_towashhands,to wash (hands),1453,WASH,洗（脸）
-349_towashclothes,to wash (clothes),2503,LAUNDER,洗（衣服）
+349_towashclothes,to wash (clothes),2503,LAUNDER (WASH CLOTHES),洗（衣服）
 350_toplough,to plough,1921,PLOUGH,犁（田）
 351_topullupweeds,to pull up (weeds),3548,PULL UP WEEDS,薅
 352_todigup,to dig up,,,挖（从地里挖出土豆）
@@ -539,7 +539,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 554_hard,hard,1884,HARD,硬
 555_roundspherical,round (spherical),2303,SPHERICAL (ROUND IN THREE DIMENSIONS),圆（球形）
 556_thick,thick,1244,THICK,厚
-557_thinflat,thin (flat),2249,THIN (OF SHAPE OF OBJECT),薄
+557_thinflat,thin (flat),2306,THIN (OF LEAF AND CLOTH),薄
 558_finesand,fine (sand),2157,FINE OR THIN,细（沙子）
 559_narrow,narrow,1267,NARROW,窄
 560_big,big,1202,BIG,大

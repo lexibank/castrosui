@@ -17,7 +17,7 @@ class CustomConcept(Concept):
 @attr.s
 class CustomLanguage(Language):
     ChineseName = attr.ib(default=None)
-    Population = attr.ib(default=None)
+    PopulationSize = attr.ib(default=None)
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default="Sui")

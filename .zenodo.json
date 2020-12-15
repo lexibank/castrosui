@@ -7,13 +7,18 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Mei-Shin Wu"
+            "name": "Andy Castro"
         }
     ],
     "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Mei-Shin Wu",
+            "type": "Other"
+        },
         {
             "name": "Patience Epps",
             "type": "Other"

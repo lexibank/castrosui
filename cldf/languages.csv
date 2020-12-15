@@ -1,4 +1,4 @@
-ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family,ChineseName,Population,SubGroup,ID_in_Source,DialectGroup,Location,Number_in_Source
+ID,Name,Glottocode,Glottolog_Name,Macroarea,Latitude,Longitude,Family,ChineseName,PopulationSize,SubGroup,ID_in_Source,DialectGroup,Location,Number_in_Source
 ShuigenCentralSandong,Sandong,sand1270,Sandong,Eurasia,25.724479,107.92172,Tai-Kadai,三洞乡水根村,1255,Sui,SD,CentralSandong,"Shuigen village, Sandong district, Sandu county",1
 ZhongheCentralSandong,Zhonghe,sand1270,Sandong,Eurasia,25.817612,107.904898,Tai-Kadai,中和镇中和村和寨,1554,Sui,ZH,CentralSandong,"Hezhai village, Zhonghe township, Sandu county",2
 TangzhouWesternSandong,Tangzhou,sand1270,Sandong,Eurasia,25.775037,107.87072,Tai-Kadai,塘州乡枚育村,735,Sui,TZ,WesternSandong,"Meiyu village, Tangzhou district, Sandu county",5
