@@ -1,4 +1,4 @@
-"ID","ID_in_Source","Number_in_Source","DialectGroup","ChineseName","SubGroup","Name","Location","Glottocode","Latitude","Longitude",Population
+"ID","ID_in_Source","Number_in_Source","DialectGroup","ChineseName","SubGroup","Name","Location","Glottocode","Latitude","Longitude",PopulationSize
 "ShuigenCentralSandong","SD",1,"CentralSandong","三洞乡水根村","Sui","Sandong","Shuigen village, Sandong district, Sandu county","sand1270",25.724479,107.92172,1255
 "ZhongheCentralSandong","ZH",2,"CentralSandong","中和镇中和村和寨","Sui","Zhonghe","Hezhai village, Zhonghe township, Sandu county","sand1270",25.817612,107.904898,1554
 "TangzhouWesternSandong","TZ",5,"WesternSandong","塘州乡枚育村","Sui","Tangzhou","Meiyu village, Tangzhou district, Sandu county","sand1270",25.775037,107.87072,735
