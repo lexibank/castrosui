@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
