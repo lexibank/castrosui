@@ -1,8 +1,16 @@
 # CLDF dataset derived from Castro's "Sui Dialect Research" from 2015
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/castrosui/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/castrosui/actions?query=workflow%3ACLDF-validation)
 
-> Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Castro, Andy and Pan, Xingwen (2015): Sui dialect research. SIL: Guiyang.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -18,7 +26,7 @@ This dataset was taken from the original data published by Andy Castro, who was 
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/castrosui.svg?branch=master)](https://travis-ci.org/lexibank/castrosui)
+[![CLDF validation](https://github.com/lexibank/castrosui/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/castrosui/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 87%](https://img.shields.io/badge/Concepticon-87%25-yellowgreen.svg "Concepticon: 87%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -45,3 +53,10 @@ Patience Epps      |   | help with concept mapping | Other
 Andy Castro | | help with concept mapping and original data | DataCurator, DataCollector, Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
