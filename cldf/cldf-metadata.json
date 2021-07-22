@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/castrosui",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-16-g8ed9985",
+            "dc:created": "v2.0-17-ga0be076",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.4.0-237-gf65e4b1",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
