@@ -1,21 +1,18 @@
 from collections import defaultdict
+from pathlib import Path
 
 import attr
-from pathlib import Path
-from pylexibank import Concept, Language, FormSpec
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
-
+import pylexibank
 from clldutils.misc import slug
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     Chinese_Gloss = attr.ib(default=None)
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     ChineseName = attr.ib(default=None)
     PopulationSize = attr.ib(default=None)
     Latitude = attr.ib(default=None)
@@ -28,19 +25,19 @@ class CustomLanguage(Language):
     Number_in_Source = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     id = "castrosui"
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
 
-    form_spec = FormSpec(separators=",")
+    form_spec = pylexibank.FormSpec(separators=",")
 
     def cmd_makecldf(self, args):
         wl = self.raw_dir.read_csv("wordlist.tsv", delimiter="\t")
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = concept.id.split('-')[-1]+'_'+slug(concept.english)
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
@@ -68,7 +65,7 @@ class Dataset(BaseDataset):
             ]
         }
 
-        for line in progressbar(wl, desc="load the data"):
+        for line in pylexibank.progressbar(wl, desc="load the data"):
             if not line[0].strip():
                 phonetic = True
             if line[0] == "'Ref#":
@@ -106,13 +103,9 @@ class Dataset(BaseDataset):
                         if not these_idx:
                             pass
 
-        # export to lingpy wordlist in raw folder
-        # Wordlist(mapping).output(
-        #    "tsv", filename=self.dir.joinpath("raw", "lingpy-wordlist").as_posix()
-        # )
-
-        # add data to cldf
-        for idx in progressbar(range(1, len(mapping)), desc="cldfify", total=len(mapping)):
+        for idx in pylexibank.progressbar(
+            range(1, len(mapping)), desc="cldfify", total=len(mapping)
+        ):
             vals = dict(zip(mapping[0], mapping[idx]))
 
             args.writer.add_forms_from_value(
