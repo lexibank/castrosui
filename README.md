@@ -33,8 +33,8 @@ This dataset was taken from the original data published by Andy Castro, who was 
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 16
-- **Concepts:** 592
+- **Varieties:** 16 (linked to 3 different Glottocodes)
+- **Concepts:** 592 (linked to 518 different Concepticon concept sets)
 - **Lexemes:** 9,459
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -47,7 +47,7 @@ This dataset was taken from the original data published by Andy Castro, who was 
 
 Name               | GitHub user | Descriptin |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other 
+Johann-Mattis List | @LinguList  | maintainer | Editor
 Mei-Shin Wu        | @MacyL      | maintainer | Other
 Patience Epps      |   | help with concept mapping | Other
 Andy Castro | | help with concept mapping and original data | DataCurator, DataCollector, Author
